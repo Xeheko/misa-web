@@ -1,0 +1,32 @@
+.ContactBtn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    background: linear-gradient(180deg, #3A1774 0%, #130033 100%);
+    border-radius: 11px;
+    width: 225px;
+    height: 50px;
+}
+
+.ContactBtn p{
+    padding: 14px 15px 14px 15px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+#line{
+    margin: 14px 15px 14px 0px;
+}
+
+#msg{
+    margin: 14px 15px 14px 0px;
+}
+
+.ContactBtn:hover{
+    cursor: pointer;
+    opacity: 80%;
+}

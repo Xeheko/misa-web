@@ -1,0 +1,29 @@
+
+.Content{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: white;
+    width: 620px;
+}
+
+.Content h1{
+    margin-bottom: 30px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 41px;
+    line-height: 56px;
+}
+
+.Content p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+@media screen and (max-width: 950px){
+    .Content{
+        width: 100%;
+    }
+}
