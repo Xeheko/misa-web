@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import cola1 from "./images/hurPage/cola1.svg";
-import cola2 from "./images/hurPage/cola2.svg";
+import cola1 from "./images/hurPage/cola1.png";
+import cola2 from "./images/hurPage/cola2.png";
 
 
 
@@ -16,8 +16,8 @@ function ColaPoster() {
             <h2>Coca-cola - reklamní banner</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={cola1} alt="" />
-                <img src={cola2} alt="" />
+                <img loading="lazy" src={cola1} alt="" />
+                <img loading="lazy" src={cola2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

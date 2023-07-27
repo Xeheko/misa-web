@@ -44,7 +44,7 @@ body{
 }
 
 .bgImg{
-  background: url(./components/images/background_ntb.svg) no-repeat center center fixed;
+  background: url(./components/images/background_ntb.png) no-repeat center center fixed;
   background-size: 100% auto;
   height: auto;
   width: 100%;
@@ -325,7 +325,7 @@ body{
 .vlastPage{
   display: flex;
   flex-direction: column;
-  background-image: url(./components/images/ribbon.svg);
+  background-image: url(./components/images/ribbon.png);
   background-repeat: no-repeat;
   background-size: cover;
   overscroll-behavior: contain;
@@ -414,7 +414,7 @@ body{
   margin-top: 150px;
   width: 100%;
   display: flex; 
-  background-image: url(./components/images/Map.svg);
+  background-image: url(./components/images/Map.png);
   background-repeat: no-repeat;
   background-size: cover;
   overscroll-behavior: contain;

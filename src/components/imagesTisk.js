@@ -1,11 +1,11 @@
 //TISK
-import babbat from "./images/portfolio/babbat.svg";
-import bota from "./images/portfolio/bota.svg";
-import cola from "./images/portfolio/cola.svg";
-import ishowroom from "./images/portfolio/ishowroom.svg";
-import kalendar from "./images/portfolio/kalendar.svg";
-import menu from "./images/portfolio/menu.svg";
-import ples from "./images/portfolio/ples.svg";
+import babbat from "./images/portfolio/babbat.png";
+import bota from "./images/portfolio/bota.png";
+import cola from "./images/portfolio/cola.png";
+import ishowroom from "./images/portfolio/ishowroom.png";
+import kalendar from "./images/portfolio/kalendar.png";
+import menu from "./images/portfolio/menu.png";
+import ples from "./images/portfolio/ples.png";
 
 export const imagesTisk = [
     {

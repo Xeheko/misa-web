@@ -10,7 +10,7 @@ function CardWeb() {
 
         <div className="Card">
             <div className="ContentCard">
-                <img src={web} alt="web" id="graf"></img>
+                <img loading="lazy" src={web} alt="web" id="graf"></img>
                 <h3>Web Design</h3>
                 <div className="Text">
                     <p >
@@ -24,7 +24,7 @@ function CardWeb() {
             </div>
                     <input type="checkbox" id="btnControl1" />
                     <label className="btn" for="btnControl1">
-                        <img src={arrow} id="arrow" className="arrowimg" alt="arrow"/>
+                        <img loading="lazy" src={arrow} id="arrow" className="arrowimg" alt="arrow"/>
                     </label>
 
                     <div className="border">

@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import post from "./images/hurPage/win_post.svg";
-import uvodni from "./images/hurPage/win_uvodni.svg";
-import plakat from "./images/hurPage/win_letak.svg";
-import stories from "./images/hurPage/win_stories.svg";
+import post from "./images/hurPage/win_post.png";
+import uvodni from "./images/hurPage/win_uvodni.png";
+import plakat from "./images/hurPage/win_letak.png";
+import stories from "./images/hurPage/win_stories.png";
 
 function winFirst() {
   return (
@@ -14,12 +14,12 @@ function winFirst() {
         </div>
         <div className="juniorGallery">
             <div className="juniorGalleryL">
-                <img src={post} alt="" />
-                <img src={uvodni} alt="" />
+                <img loading="lazy" src={post} alt="" />
+                <img loading="lazy" src={uvodni} alt="" />
             </div>
             <div className="juniorGalleryR">
-              <img src={plakat} alt="" />
-              <img src={stories} alt="" />
+              <img loading="lazy" src={plakat} alt="" />
+              <img loading="lazy" src={stories} alt="" />
             </div>
         </div>
         <div className="juniorTags">

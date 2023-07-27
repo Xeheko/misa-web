@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import raketaci1 from "./images/hurPage/raketaci1.svg";
-import raketaci2 from "./images/hurPage/raketaci2.svg";
+import raketaci1 from "./images/hurPage/raketaci1.png";
+import raketaci2 from "./images/hurPage/raketaci2.png";
 
 
 function RaketaciMerch() {
@@ -12,8 +12,8 @@ function RaketaciMerch() {
             <h2>Triko Rakeťáci</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={raketaci1} alt="" />
-                <img src={raketaci2} alt="" />
+                <img loading="lazy" src={raketaci1} alt="" />
+                <img loading="lazy" src={raketaci2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -1,6 +1,6 @@
 import React from 'react'
 import "./hurJunior.css";
-import email from "./images/hurPage/wcEmail.svg";
+import email from "./images/hurPage/wcEmail.png";
 
 
 function WcEmail() {
@@ -11,7 +11,7 @@ function WcEmail() {
             <h2>Veselé Velikonoce WC servis</h2>
         </div>
         <div className="juniorGallery">
-                <img src={email} alt="" />
+                <img loading="lazy" src={email} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

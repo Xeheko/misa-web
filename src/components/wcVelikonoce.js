@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hurJunior.css";
-import post1 from "./images/hurPage/wc_velikonoce_1.svg";
-import post2 from "./images/hurPage/wc_velikonoce_2.svg";
-import post3 from "./images/hurPage/wc_velikonoce_3.svg";
+import post1 from "./images/hurPage/wc_velikonoce_1.png";
+import post2 from "./images/hurPage/wc_velikonoce_2.png";
+import post3 from "./images/hurPage/wc_velikonoce_3.png";
 
 
 function WcVelikonoce() {
@@ -13,9 +13,9 @@ function WcVelikonoce() {
             <h2>Veselé Velikonoce WC servis</h2>
         </div>
         <div className="juniorGallery">
-                <img src={post1} alt="" />
-                <img src={post2} alt="" />
-                <img src={post3} alt="" />
+                <img loading="lazy" src={post1} alt="" />
+                <img loading="lazy" src={post2} alt="" />
+                <img loading="lazy" src={post3} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

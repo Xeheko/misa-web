@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
 import ples1 from "./images/hurPage/ples1.svg";
-import ples2 from "./images/hurPage/ples2.svg";
+import ples2 from "./images/hurPage/ples2.png";
 
 
 
@@ -16,8 +16,8 @@ function PlesDesign() {
             <h2>Design myslivecký ples</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={ples1} alt="" />
-                <img src={ples2} alt="" />
+                <img loading="lazy" src={ples1} alt="" />
+                <img loading="lazy" src={ples2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

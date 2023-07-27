@@ -1,5 +1,5 @@
 import React from "react";
-import kom from "../images/Kom.svg"
+import kom from "../images/Kom.png"
 
 
 function Kom() {
@@ -8,7 +8,7 @@ function Kom() {
         <>
         <div className="mainPerk">
             <div className="perkImg">
-                <img src={kom} alt="Komunikativnost" />
+                <img loading="lazy" src={kom} alt="Komunikativnost" />
             </div>
             <div className="perkTxt">
                 <h2>Komunikativnost</h2>

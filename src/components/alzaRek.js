@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import vys from "./images/hurPage/alzaV.svg";
-import post from "./images/hurPage/alza_post.svg";
+import vys from "./images/hurPage/alzaV.png";
+import post from "./images/hurPage/alza_post.png";
 
 
 function AlzaRek() {
@@ -13,8 +13,8 @@ function AlzaRek() {
         </div>
         <div className="juniorGalleryL">
             <div className="alzaU">
-                <img src={vys} alt="" />
-                <img src={post} alt="" />
+                <img loading="lazy" src={vys} alt="" />
+                <img loading="lazy" src={post} alt="" />
             </div>
         </div>
         <div className="juniorTags">

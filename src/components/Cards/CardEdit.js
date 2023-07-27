@@ -10,7 +10,7 @@ function CardEdit() {
 
         <div className="Card">
             <div className="ContentCard">
-                <img src={edit} alt="web" id="graf"></img>
+                <img loading="lazy" src={edit} alt="web" id="graf"></img>
                 <h3>Edit videí</h3>
                 <div className="Text">
                     <p >
@@ -22,7 +22,7 @@ function CardEdit() {
             </div>
                     <input type="checkbox" id="btnControl3" />
                     <label className="btn" for="btnControl3">
-                        <img src={arrow} id="arrow" className="arrowimg" alt="arrow"/>
+                        <img loading="lazy" src={arrow} id="arrow" className="arrowimg" alt="arrow"/>
                     </label>
 
                     <div className="border">

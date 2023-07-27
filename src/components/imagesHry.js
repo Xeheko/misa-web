@@ -1,6 +1,6 @@
 //HRY
-import spaceMission from "./images/portfolio/spaceMission.svg";
-import devetsil from "./images/portfolio/devetsil.svg";
+import spaceMission from "./images/portfolio/spaceMission.png";
+import devetsil from "./images/portfolio/devetsil.png";
 
 export const imagesHry = [
     {

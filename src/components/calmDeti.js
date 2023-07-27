@@ -1,6 +1,6 @@
 import React from 'react'
 import "./hurJunior.css";
-import calmDeti from "./images/hurPage/CalmDeti.svg";
+import calmDeti from "./images/hurPage/CalmDeti.png";
 
 
 
@@ -12,7 +12,7 @@ function CalmDeti() {
             <h2>Mezinárodní den dětí</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={calmDeti} alt="" />
+                <img loading="lazy" src={calmDeti} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import wedryDesign1 from "./images/hurPage/wedryDesign1.svg";
-import wedryDesign2 from "./images/hurPage/wedryDesign2.svg";
+import wedryDesign1 from "./images/hurPage/wedryDesign1.png";
+import wedryDesign2 from "./images/hurPage/wedryDesign2.png";
 
 
 
@@ -12,8 +12,8 @@ function WedryDesign() {
             <h2>Potisk trika</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={wedryDesign1} alt="" />
-                <img src={wedryDesign2} alt="" />
+                <img loading="lazy" src={wedryDesign1} alt="" />
+                <img loading="lazy" src={wedryDesign2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

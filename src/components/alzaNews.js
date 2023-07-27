@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import news1 from "./images/hurPage/alza_news1.svg";
-import news2 from "./images/hurPage/alza_news2.svg";
+import news1 from "./images/hurPage/alza_news1.png";
+import news2 from "./images/hurPage/alza_news2.png";
 
 
 function AlzaNews() {
@@ -12,8 +12,8 @@ function AlzaNews() {
             <h2>Alza – newsletter</h2>
         </div>
         <div className="juniorGallery">
-                <img src={news1} alt="" />
-                <img src={news2} alt="" />
+                <img loading="lazy" src={news1} alt="" />
+                <img loading="lazy" src={news2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

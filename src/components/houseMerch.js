@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import house1 from "./images/hurPage/house1.svg";
-import house2 from "./images/hurPage/house2.svg";
+import house1 from "./images/hurPage/house1.png";
+import house2 from "./images/hurPage/house2.png";
 
 
 function houseMerch() {
@@ -12,8 +12,8 @@ function houseMerch() {
             <h2>Mikina House</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={house1} alt="" />
-                <img src={house2} alt="" />
+                <img loading="lazy" src={house1} alt="" />
+                <img loading="lazy" src={house2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

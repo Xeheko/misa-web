@@ -1,5 +1,5 @@
 import React from "react";
-import spol from "../images/Spol.svg"
+import spol from "../images/Spol.png"
 
 
 function Spol() {
@@ -8,7 +8,7 @@ function Spol() {
         <>
         <div className="mainPerk">
             <div className="perkImg">
-                <img src={spol} alt="Komunikativnost" />
+                <img loading="lazy" src={spol} alt="Komunikativnost" />
             </div>
             <div className="perkTxt">
                 <h2>Spolehlivost</h2>

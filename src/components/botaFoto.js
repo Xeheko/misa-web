@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import botaFoto1 from "./images/hurPage/botaFoto1.svg";
-import botaFoto2 from "./images/hurPage/botaFoto2.svg";
+import botaFoto1 from "./images/hurPage/botaFoto1.png";
+import botaFoto2 from "./images/hurPage/botaFoto2.png";
 
 
 
@@ -19,8 +19,8 @@ function BotaFoto() {
             <h2>Bubble led shoes</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={botaFoto1} alt="" />
-                <img src={botaFoto2} alt="" />
+                <img loading="lazy" src={botaFoto1} alt="" />
+                <img loading="lazy" src={botaFoto2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

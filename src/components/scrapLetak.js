@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import scrap1 from "./images/hurPage/scrap1.svg";
-import scrap2 from "./images/hurPage/scrap2.svg";
+import scrap1 from "./images/hurPage/scrap1.png";
+import scrap2 from "./images/hurPage/scrap2.png";
 
 
 
@@ -16,8 +16,8 @@ function ScrapLetak() {
             <h2>Bohemia scrap – Leták</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={scrap1} alt="" />
-                <img src={scrap2} alt="" />
+                <img loading="lazy" src={scrap1} alt="" />
+                <img loading="lazy" src={scrap2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

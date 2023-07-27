@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import post from "./images/hurPage/post.svg";
-import uvodni from "./images/hurPage/uvodni.svg";
-import plakat from "./images/hurPage/plakat.svg";
-import stories from "./images/hurPage/stories.svg";
+import post from "./images/hurPage/post.png";
+import uvodni from "./images/hurPage/uvodni.png";
+import plakat from "./images/hurPage/plakat.png";
+import stories from "./images/hurPage/stories.png";
 
 function hurJunior() {
   return (
@@ -14,12 +14,12 @@ function hurJunior() {
         </div>
         <div className="juniorGallery">
             <div className="juniorGalleryL">
-                <img src={post} alt="" />
-                <img src={uvodni} alt="" />
+                <img loading="lazy" src={post} alt="" />
+                <img loading="lazy" src={uvodni} alt="" />
             </div>
             <div className="juniorGalleryR">
-              <img src={plakat} alt="" />
-              <img src={stories} alt="" />
+              <img loading="lazy" src={plakat} alt="" />
+              <img loading="lazy" src={stories} alt="" />
             </div>
         </div>
         <div className="juniorTags">

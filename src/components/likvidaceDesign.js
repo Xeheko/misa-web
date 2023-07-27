@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import likvidace1 from "./images/hurPage/likvidace1.svg";
-import likvidace2 from "./images/hurPage/likvidace2.svg";
+import likvidace1 from "./images/hurPage/likvidace1.png";
+import likvidace2 from "./images/hurPage/likvidace2.png";
 
 
 
@@ -13,8 +13,8 @@ function LikvidaceDesign() {
             <h2>Web design</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={likvidace1} alt="" />
-                <img src={likvidace2} alt="" />
+                <img loading="lazy" src={likvidace1} alt="" />
+                <img loading="lazy" src={likvidace2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

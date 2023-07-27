@@ -7,14 +7,14 @@ import ScrollToTop from "./ScrollToTop";
 import Footer from "./components/Footer";
 
 
-import menu from "./components/images/portfolio/menuS.svg";
-import kalendar from "./components/images/portfolio/kalendarS.svg";
-import bohemiaLetak from "./components/images/portfolio/bohemiaLetak.svg";
-import ples from "./components/images/portfolio/plesS.svg";
-import ishowroom from "./components/images/portfolio/ishowroom.svg";
-import cola from "./components/images/portfolio/colaS.svg";
-import bota from "./components/images/portfolio/bota.svg";
-import PF from "./components/images/portfolio/PF.svg";
+import menu from "./components/images/portfolio/menuS.png";
+import kalendar from "./components/images/portfolio/kalendarS.png";
+import bohemiaLetak from "./components/images/portfolio/bohemiaLetak.png";
+import ples from "./components/images/portfolio/plesS.png";
+import ishowroom from "./components/images/portfolio/ishowroom.png";
+import cola from "./components/images/portfolio/colaS.png";
+import bota from "./components/images/portfolio/bota.png";
+import PF from "./components/images/portfolio/PF.png";
 
 
 
@@ -44,7 +44,7 @@ function ObleceniPage() {
 
                 <p className="container">
                     <Link to="/Menu">
-                        <img className="image" src={menu} alt="" />
+                        <img loading="lazy" className="image" src={menu} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Table tent</h1></div>
@@ -52,7 +52,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/Kalendar">
-                        <img className="image" src={kalendar} alt="" />
+                        <img loading="lazy" className="image" src={kalendar} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Kalendář</h1></div>
@@ -60,7 +60,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/BohemiaScrap">
-                        <img className="image" src={bohemiaLetak} alt="" />
+                        <img loading="lazy" className="image" src={bohemiaLetak} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Kalendář</h1></div>
@@ -68,7 +68,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/Ples">
-                        <img className="image" src={ples} alt="" />
+                        <img loading="lazy" className="image" src={ples} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1> Plakát událost</h1></div>
@@ -76,7 +76,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/IShowroom">
-                        <img className="image" src={ishowroom} alt="" />
+                        <img loading="lazy" className="image" src={ishowroom} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1> Plakát událost</h1></div>
@@ -84,7 +84,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/Cola">
-                        <img className="image" src={cola} alt="" />
+                        <img loading="lazy" className="image" src={cola} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Reklamní cedule</h1></div>
@@ -92,7 +92,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/Shoes">
-                        <img className="image" src={bota} alt="" />
+                        <img loading="lazy" className="image" src={bota} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Brožura</h1></div>
@@ -100,7 +100,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/PF">
-                        <img className="image" src={PF} alt="" />
+                        <img loading="lazy" className="image" src={PF} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>PF 2021</h1></div>
@@ -114,7 +114,7 @@ function ObleceniPage() {
             <div className="BottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
-                        <img src={arrowL} alt="" />
+                        <img loading="lazy" src={arrowL} alt="" />
                     <li>
                         <p>
                             <Link to="javascript:history.back()">

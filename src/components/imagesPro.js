@@ -1,8 +1,8 @@
 
 //PROJEKTY
-import calm2be from "./images/portfolio/calm2be.svg";
-import wcServis from "./images/portfolio/wcServis.svg";
-import bohemia from "./images/portfolio/bohemia.svg";
+import calm2be from "./images/portfolio/calm2be.png";
+import wcServis from "./images/portfolio/wcServis.png";
+import bohemia from "./images/portfolio/bohemia.png";
 
 export const imagesPro = [
     {

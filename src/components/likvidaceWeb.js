@@ -1,6 +1,6 @@
 import React from 'react'
 import "./hurJunior.css";
-import likvidaceWeb from "./images/hurPage/likvidaceWeb.svg";
+import likvidaceWeb from "./images/hurPage/likvidaceweb.svg";
 
 
 
@@ -9,7 +9,7 @@ function LikvidaceWeb() {
     <div className='juniorAll'>
 
         <div className="juniorGalleryD">
-                <img src={likvidaceWeb} alt="" />
+                <img loading="lazy" src={likvidaceWeb} alt="" />
         </div>
 
     </div>

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import botaMockup1 from "./images/hurPage/botaMockup1.svg";
-import botaMockup2 from "./images/hurPage/botaMockup2.svg";
+import botaMockup1 from "./images/hurPage/botaMockup1.png";
+import botaMockup2 from "./images/hurPage/botaMockup2.png";
 
 
 
@@ -16,8 +16,8 @@ function BotaMockup() {
             <h2>Bubble led shoes</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={botaMockup1} alt="" />
-                <img src={botaMockup2} alt="" />
+                <img loading="lazy" src={botaMockup1} alt="" />
+                <img loading="lazy" src={botaMockup2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

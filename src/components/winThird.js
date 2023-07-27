@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
 
-import post from "./images/hurPage/win_post3.svg";
-import event from "./images/hurPage/win_event3.svg";
-import stories from "./images/hurPage/win_stories3.svg";
+import post from "./images/hurPage/win_post3.png";
+import event from "./images/hurPage/win_event3.png";
+import stories from "./images/hurPage/win_stories3.png";
 
 
 function hurZlin() {
@@ -14,9 +14,9 @@ function hurZlin() {
             <h2>Flag Schedule seasson 2023</h2>
         </div>
         <div className="juniorGalleryS">
-            <img src={post} alt="" />
-            <img src={event} alt="" />
-            <img src={stories} alt="" />
+            <img loading="lazy" src={post} alt="" />
+            <img loading="lazy" src={event} alt="" />
+            <img loading="lazy" src={stories} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -1,47 +1,47 @@
 .hurTitle{
-    background-image: url(./images/logo_hurricanes.svg);
+    background-image: url(./images/logo_hurricanes.png);
     background-repeat: no-repeat;
     background-position: top right;
     width: 90%;
 }
 
 .winTitle{
-    background-image: url(./images/logo_windstorms.svg);
+    background-image: url(./images/logo_windstorms.png);
     background-repeat: no-repeat;
     background-position: top right;
     width: 90%;
 }
 
 .ageTitle{
-    background-image: url(./images/ageTitle.svg);
+    background-image: url(./images/ageTitle.png);
     background-repeat: no-repeat;
     background-position: top right;
     width: 90%;
 }
 
 .spartaTitle{
-    background-image: url(./images/logo_sparta.svg);
+    background-image: url(./images/logo_sparta.png);
     background-repeat: no-repeat;
     background-position: 80% 50%;
     width: 90%;
 }
 
 .alzaTitle{
-    background-image: url(./images/alzak.svg);
+    background-image: url(./images/alzak.png);
     background-repeat: no-repeat;
     background-position: 80% 50%;
     width: 90%;
 }
 
 .wcTitle{
-    background-image: url(./images/logo_wc.svg);
+    background-image: url(./images/logo_wc.png);
     background-repeat: no-repeat;
     background-position: 80% 50%;
     width: 90%;
 }
 
 .calmTitle{
-    background-image: url(./images/calmLogo.svg);
+    background-image: url(./images/calmLogo.png);
     background-repeat: no-repeat;
     background-position: center right;
     width: 90%;
@@ -49,7 +49,7 @@
 }
 
 .houseTitle{
-    background-image: url(./images/house_logo.svg);
+    background-image: url(./images/house_logo.png);
     background-repeat: no-repeat;
     background-position: 80% 50%;
     width: 90%;
@@ -57,7 +57,7 @@
 }
 
 .wedryTitle{
-    background-image: url(./images/wedry_logo.svg);
+    background-image: url(./images/wedry_logo.png);
     background-repeat: no-repeat;
     background-position: center right;
     width: 90%;
@@ -65,7 +65,7 @@
 }
 
 .raketaciTitle{
-    background-image: url(./images/raketaci_logo.svg);
+    background-image: url(./images/raketaci_logo.png);
     background-repeat: no-repeat;
     background-position: center right;
     width: 90%;
@@ -73,7 +73,7 @@
 }
 
 .menuTitle{
-    background-image: url(./images/menu_logo.svg);
+    background-image: url(./images/menu_logo.png);
     background-repeat: no-repeat;
     background-position: center right;
     width: 90%;
@@ -81,56 +81,56 @@
 }
 
 .kalendarTitle{
-    background-image: url(./images/kalendar_logo.svg);
+    background-image: url(./images/kalendar_logo.png);
     background-repeat: no-repeat;
     background-position: top right;
     width: 90%;
 }
 
 .scrapTitle{
-    background-image: url(./images/scrap_logo.svg);
+    background-image: url(./images/scrap_logo.png);
     background-repeat: no-repeat;
     background-position: center right;
     width: 90%;
 }
 
 .showRoomTitle{
-    background-image: url(./images/showRoom_logo.svg);
+    background-image: url(./images/showRoom_logo.png);
     background-repeat: no-repeat;
     background-position: 80% 50%;
     width: 90%;
 }
 
 .colaTitle{
-    background-image: url(./images/cola_logo.svg);
+    background-image: url(./images/cola_logo.png);
     background-repeat: no-repeat;
     background-position: 80% 50%;
     width: 90%;
 }
 
 .wcRentTitle{
-    background-image: url(./images/wcRent_logo.svg);
+    background-image: url(./images/wcRent_logo.png);
     background-repeat: no-repeat;
     background-position: 80% 50%;
     width: 90%;
 }
 
 .likvidaceTitle{
-    background-image: url(./images/likvidace_logo.svg);
+    background-image: url(./images/likvidace_logo.png);
     background-repeat: no-repeat;
     background-position: center right;
     width: 90%;
 }
 
 .spaceTitle{
-    background-image: url(./images/space_logo.svg);
+    background-image: url(./images/space_logo.png);
     background-repeat: no-repeat;
     background-position: center right;
     width: 90%;
 }
 
 .devetsilTitle{
-    background-image: url(./images/devetsil_logo.svg);
+    background-image: url(./images/devetsil_logo.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     width: 90%;

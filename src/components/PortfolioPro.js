@@ -5,8 +5,8 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 import { imagesPro } from "./imagesPro";
-import arrow from "./images/arrowSlider.svg";
-import arrowL from "./images/arrowSliderL.svg";
+import arrow from "./images/arrowSlider.png";
+import arrowL from "./images/arrowSliderL.png";
 
 
 function Portfolio() {
@@ -14,7 +14,7 @@ function Portfolio() {
   function SampleNextArrow(props) {
     const { className, style, onClick } = props;
     return (
-      <img 
+      <img loading="lazy" 
       className={className}
       id="arrowR"
       src={arrow} alt="" 
@@ -27,7 +27,7 @@ function Portfolio() {
   function SamplePrevArrow(props) {
     const { className, style, onClick } = props;
     return (
-      <img 
+      <img loading="lazy" 
       className={className}
       id="arrowL"
       src={arrowL} alt="" 
@@ -110,7 +110,7 @@ function Portfolio() {
             <div className="cardPro">
               <div className="card-top">
                 <a href={item.category}>
-                <img
+                <img loading="lazy"
                   src={
                     defaultImage[item.title] === item.title
                       ? defaultImage.linkDefault

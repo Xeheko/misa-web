@@ -44,7 +44,7 @@ function WinPage() {
             <div className="hurBottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
-                        <img src={arrowL} alt="" />
+                        <img loading="lazy" src={arrowL} alt="" />
                     <li>
                         <p>
                             <Link to="javascript:history.back()">

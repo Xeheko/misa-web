@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import wcRent1 from "./images/hurPage/wcRent1.svg";
-import wcRent2 from "./images/hurPage/wcRent2.svg";
+import wcRent1 from "./images/hurPage/wcRent1.png";
+import wcRent2 from "./images/hurPage/wcRent2.png";
 
 
 
@@ -13,8 +13,8 @@ function WcRentMockup() {
             <h2>Web design</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={wcRent1} alt="" />
-                <img src={wcRent2} alt="" />
+                <img loading="lazy" src={wcRent1} alt="" />
+                <img loading="lazy" src={wcRent2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./otherNavbar.css";
-import arrowL from "./images/arrowL.svg";
+import arrowL from "./images/arrowL.png";
 
 function OtherNavbar() {
   const [otherColor, setOtherColor] = useState(false);
@@ -26,7 +26,7 @@ function OtherNavbar() {
     <div className={otherColor ? "hurHeader hurHeader-bg" : "hurHeader"}>
         <ul className="hurmenu">
             <div className="hurBack">
-                <img src={arrowL} alt="" />
+                <img loading="lazy" src={arrowL} alt="" />
             <li>
               <a href="javascript:history.back()">
                     ZPĚT NA PORTFOLIO

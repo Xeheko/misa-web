@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import work1 from "./images/hurPage/work1.svg";
-import work2 from "./images/hurPage/work2.svg";
+import work1 from "./images/hurPage/work1.png";
+import work2 from "./images/hurPage/work2.png";
 
 
 function CalmWork() {
@@ -12,8 +12,8 @@ function CalmWork() {
             <h2>Workshop</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={work1} alt="" />
-                <img src={work2} alt="" />
+                <img loading="lazy" src={work1} alt="" />
+                <img loading="lazy" src={work2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

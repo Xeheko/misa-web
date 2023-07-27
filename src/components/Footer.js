@@ -1,9 +1,9 @@
 import React from "react";
 import "./Footer.css";
-import logo from "./images/logo_hlavni.svg"
-import FB from "./images/FB.svg";
-import YT from "./images/YT.svg";
-import BE from "./images/BE.svg";
+import logo from "./images/logo_hlavni.png"
+import FB from "./images/FB.png";
+import YT from "./images/YT.png";
+import BE from "./images/BE.png";
 import {Link} from "react-router-dom";
 
 
@@ -13,7 +13,7 @@ function Footer() {
         <>
         <div className="footer">
             <div className="footerL">
-                <img src={logo} alt="logo" />
+                <img loading="lazy" src={logo} alt="logo" />
             </div>
             <div className="footerR">
                 <div className="RL">
@@ -26,9 +26,9 @@ function Footer() {
                 </div>
             </div>
             <div className="footerSoc">
-                    <img src={YT} alt="YouTube" />
-                    <img src={FB} alt="Facebook" />
-                    <img src={BE} alt="Behance" />
+                    <img loading="lazy" src={YT} alt="YouTube" />
+                    <img loading="lazy" src={FB} alt="Facebook" />
+                    <img loading="lazy" src={BE} alt="Behance" />
             </div>
         </div>
         </>

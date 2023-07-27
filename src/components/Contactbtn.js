@@ -1,6 +1,6 @@
 import React from "react";
 import "./Contactbtn.css";
-import Msg from "./images/Msg.svg";
+import Msg from "./images/Msg.png";
 import Line from "./images/Line.svg";
 
 
@@ -11,8 +11,8 @@ function Contactbtn() {
         <a href="#formPage">
         <div className="ContactBtn">
             <p>Domluvit si schůzku</p>
-            <img loading="lazy" src={Line} alt="line" id="line"/>
-            <img loading="lazy" src={Msg} alt="Msg" id="msg" />
+            <img loading="lazy" loading="lazy" src={Line} alt="line" id="line"/>
+            <img loading="lazy" loading="lazy" src={Msg} alt="Msg" id="msg" />
         </div>
         </a>
         </>

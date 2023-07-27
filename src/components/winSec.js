@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import post from "./images/hurPage/win_post2.svg";
-import uvodni from "./images/hurPage/win_uvodni2.svg";
-import kino from "./images/hurPage/win_kino2.svg";
-import stories from "./images/hurPage/win_stories2.svg";
+import post from "./images/hurPage/win_post2.png";
+import uvodni from "./images/hurPage/win_uvodni2.png";
+import kino from "./images/hurPage/win_kino2.png";
+import stories from "./images/hurPage/win_stories2.png";
 
 function winSec() {
   return (
@@ -14,12 +14,12 @@ function winSec() {
         </div>
         <div className="juniorGallery">
             <div className="juniorGalleryL">
-                <img src={uvodni} alt="" />
-                <img src={kino} alt="" />
+                <img loading="lazy" src={uvodni} alt="" />
+                <img loading="lazy" src={kino} alt="" />
             </div>
             <div className="juniorGalleryR">
-              <img src={stories} alt="" />
-              <img src={post} alt="" />
+              <img loading="lazy" src={stories} alt="" />
+              <img loading="lazy" src={post} alt="" />
             </div>
         </div>
         <div className="juniorTags">

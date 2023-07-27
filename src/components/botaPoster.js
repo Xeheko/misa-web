@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import botaPoster1 from "./images/hurPage/botaPoster1.svg";
-import botaPoster2 from "./images/hurPage/botaPoster2.svg";
+import botaPoster1 from "./images/hurPage/botaPoster1.png";
+import botaPoster2 from "./images/hurPage/botaPoster2.png";
 
 
 
@@ -18,8 +18,8 @@ function BotaPoster() {
             <h2>Bubble led shoes</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={botaPoster1} alt="" />
-                <img src={botaPoster2} alt="" />
+                <img loading="lazy" src={botaPoster1} alt="" />
+                <img loading="lazy" src={botaPoster2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

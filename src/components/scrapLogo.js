@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import scrapLogo1 from "./images/hurPage/scrapLogo1.svg";
-import scrapLogo2 from "./images/hurPage/scrapLogo2.svg";
+import scrapLogo1 from "./images/hurPage/scrapLogo1.png";
+import scrapLogo2 from "./images/hurPage/scrapLogo2.png";
 
 
 
@@ -16,8 +16,8 @@ function ScrapLogo() {
             <h2>Bohemia scrap – Logo</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={scrapLogo1} alt="" />
-                <img src={scrapLogo2} alt="" />
+                <img loading="lazy" src={scrapLogo1} alt="" />
+                <img loading="lazy" src={scrapLogo2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

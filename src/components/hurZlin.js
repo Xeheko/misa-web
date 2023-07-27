@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hurJunior.css";
-import final from "./images/hurPage/final_score_zlin.svg";
-import post from "./images/hurPage/game_day_zlin.svg";
-import stories from "./images/hurPage/game_day_zlin_stories.svg";
+import final from "./images/hurPage/final_score_zlin.png";
+import post from "./images/hurPage/game_day_zlin.png";
+import stories from "./images/hurPage/game_day_zlin_stories.png";
 
 
 function hurZlin() {
@@ -13,9 +13,9 @@ function hurZlin() {
             <h2>Game day –⁠ away</h2>
         </div>
         <div className="juniorGallery">
-            <img src={post} alt="" />
-            <img src={stories} alt="" />
-            <img src={final} alt="" />
+            <img loading="lazy" src={post} alt="" />
+            <img loading="lazy" src={stories} alt="" />
+            <img loading="lazy" src={final} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

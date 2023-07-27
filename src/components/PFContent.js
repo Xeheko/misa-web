@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import PF1 from "./images/hurPage/PF1.svg";
-import PF2 from "./images/hurPage/PF2.svg";
+import PF1 from "./images/hurPage/PF1.png";
+import PF2 from "./images/hurPage/PF2.png";
 
 
 
@@ -18,8 +18,8 @@ function PFContent() {
             <h2>PF 2021</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={PF1} alt="" />
-                <img src={PF2} alt="" />
+                <img loading="lazy" src={PF1} alt="" />
+                <img loading="lazy" src={PF2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

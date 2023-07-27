@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hurJunior.css";
-import uvodni from "./images/hurPage/schedule_uvodni.svg";
-import post from "./images/hurPage/schedule_post.svg";
-import stories from "./images/hurPage/schedule_stories.svg";
+import uvodni from "./images/hurPage/schedule_uvodni.png";
+import post from "./images/hurPage/schedule_post.png";
+import stories from "./images/hurPage/schedule_stories.png";
 
 
 function hurSchedule() {
@@ -13,9 +13,9 @@ function hurSchedule() {
             <h2>Schedule seasson 2023</h2>
         </div>
         <div className="juniorGalleryS">
-            <img src={post} alt="" />
-            <img src={uvodni} alt="" />
-            <img src={stories} alt="" />
+            <img loading="lazy" src={post} alt="" />
+            <img loading="lazy" src={uvodni} alt="" />
+            <img loading="lazy" src={stories} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

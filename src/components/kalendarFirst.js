@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import kalendarium from "./images/hurPage/kalendarium.svg";
-import kalendarium2 from "./images/hurPage/kalendarium2.svg";
-import kalendarium3 from "./images/hurPage/kalendarium3.svg";
-import kalendarium4 from "./images/hurPage/kalendarium4.svg";
+import kalendarium from "./images/hurPage/kalendarium.png";
+import kalendarium2 from "./images/hurPage/kalendarium2.png";
+import kalendarium3 from "./images/hurPage/kalendarium3.png";
+import kalendarium4 from "./images/hurPage/kalendarium4.png";
 
 
 
@@ -17,10 +17,10 @@ function KalendarFirst() {
             <h2>Kalendář Jiří z Poděbrad </h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={kalendarium} alt="" />
-                <img src={kalendarium2} alt="" />
-                <img src={kalendarium3} alt="" />
-                <img src={kalendarium4} alt="" />
+                <img loading="lazy" src={kalendarium} alt="" />
+                <img loading="lazy" src={kalendarium2} alt="" />
+                <img loading="lazy" src={kalendarium3} alt="" />
+                <img loading="lazy" src={kalendarium4} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

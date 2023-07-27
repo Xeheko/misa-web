@@ -1,6 +1,6 @@
 import React from 'react'
 import "./hurJunior.css";
-import plesPoster from "./images/hurPage/plesPoster.svg";
+import plesPoster from "./images/hurPage/plesPoster.png";
 
 
 
@@ -15,7 +15,7 @@ function PlesPoster() {
             <h2>Myslivecký ples - plakát</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={plesPoster} alt="" />
+                <img loading="lazy" src={plesPoster} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

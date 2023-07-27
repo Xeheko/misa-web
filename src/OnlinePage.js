@@ -8,14 +8,14 @@ import Footer from "./components/Footer";
 
 
 
-import hurricanes from "./components/images/portfolio/hurricanes.svg";
-import windstorms from "./components/images/portfolio/windstorms.svg";
-import myAge from "./components/images/portfolio/myAge.svg";
-import alza from "./components/images/portfolio/alza.svg";
-import calm2be from "./components/images/portfolio/calm2be.svg";
-import wcVelikonoce from "./components/images/portfolio/wcVelikonoce.svg";
-import fotbal from "./components/images/portfolio/fotbal.svg";
-import mixit from "./components/images/portfolio/mixit.svg";
+import hurricanes from "./components/images/portfolio/hurricanes.png";
+import windstorms from "./components/images/portfolio/windstorms.png";
+import myAge from "./components/images/portfolio/myAge.png";
+import alza from "./components/images/portfolio/alza.png";
+import calm2be from "./components/images/portfolio/calm2be.png";
+import wcVelikonoce from "./components/images/portfolio/wcVelikonoce.png";
+import fotbal from "./components/images/portfolio/fotbal.png";
+import mixit from "./components/images/portfolio/mixit.png";
 
 
 
@@ -44,7 +44,7 @@ function onlinePage() {
 
                     <p className="container">
                         <Link to="/Hurricanes">
-                            <img className="image" src={hurricanes} alt="hurricanes" />
+                            <img loading="lazy" className="image" src={hurricanes} alt="hurricanes" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Jičín Hurricanes</h1></div>
@@ -54,7 +54,7 @@ function onlinePage() {
                 
                     <p className="container">
                         <Link to="/Windstorms">
-                            <img className="image" src={windstorms} alt="windstorms" />
+                            <img loading="lazy" className="image" src={windstorms} alt="windstorms" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Jičín Windstorms</h1></div>
@@ -62,7 +62,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
                         <Link to="/MyAge">
-                            <img className="image" src={myAge} alt="MyAge" />
+                            <img loading="lazy" className="image" src={myAge} alt="MyAge" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>MyAge</h1></div>
@@ -71,7 +71,7 @@ function onlinePage() {
 
                     <p className="container">
                         <Link to="/Alza">
-                            <img className="image" src={alza} alt="hurricanes" />
+                            <img loading="lazy" className="image" src={alza} alt="hurricanes" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Alza</h1></div>
@@ -79,7 +79,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
                         <Link to="/Calm2Be">
-                            <img className="image" src={calm2be} alt="Calm2Be" />
+                            <img loading="lazy" className="image" src={calm2be} alt="Calm2Be" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Calm2Be</h1></div>
@@ -87,7 +87,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
                         <Link to="/WcServis">
-                            <img className="image" src={wcVelikonoce} alt="Calm2Be" />
+                            <img loading="lazy" className="image" src={wcVelikonoce} alt="Calm2Be" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>WcServis</h1></div>
@@ -95,7 +95,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
                         <Link to="/Sparta">
-                            <img className="image" src={fotbal} alt="MyAge" />
+                            <img loading="lazy" className="image" src={fotbal} alt="MyAge" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Fotbalové karty</h1></div>
@@ -103,7 +103,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
 
-                            <img className="image" src={mixit} alt="windstorms" />
+                            <img loading="lazy" className="image" src={mixit} alt="windstorms" />
 
                         <div className="overlay">
                             <div className="text"><h1>Mixit</h1></div>
@@ -119,7 +119,7 @@ function onlinePage() {
             <div className="BottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
-                        <img src={arrowL} alt="" />
+                        <img loading="lazy" src={arrowL} alt="" />
                     <li>
                         <p>
                             <Link to="javascript:history.back()">

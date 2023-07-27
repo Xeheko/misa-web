@@ -6,10 +6,10 @@ import arrowL from "./components/images/arrowL.svg";
 import ScrollToTop from "./ScrollToTop";
 import Footer from "./components/Footer";
 
-import hurricanesMik from "./components/images/portfolio/hurricanesMik.svg";
-import house from "./components/images/portfolio/house.svg";
-import wedry from "./components/images/portfolio/wedry.svg";
-import raketaci from "./components/images/portfolio/raketaci.svg";
+import hurricanesMik from "./components/images/portfolio/hurricanesMik.png";
+import house from "./components/images/portfolio/house.png";
+import wedry from "./components/images/portfolio/wedry.png";
+import raketaci from "./components/images/portfolio/raketaci.png";
 
 
 
@@ -39,7 +39,7 @@ function ObleceniPage() {
 
                     <p className="container">
                         <Link to="/HurricanesMerch">
-                            <img className="image" src={hurricanesMik} alt="" />
+                            <img loading="lazy" className="image" src={hurricanesMik} alt="" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Hurricanes mikina</h1></div>
@@ -48,7 +48,7 @@ function ObleceniPage() {
 
                     <p className="container">
                         <Link to="/HousePage">
-                            <img className="image" src={house} alt="" />
+                            <img loading="lazy" className="image" src={house} alt="" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Merch</h1></div>
@@ -57,7 +57,7 @@ function ObleceniPage() {
 
                     <p className="container">
                         <Link to="/WedryPage">
-                            <img className="image" src={wedry} alt="" />
+                            <img loading="lazy" className="image" src={wedry} alt="" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Merch</h1></div>
@@ -65,7 +65,7 @@ function ObleceniPage() {
                     </p>
                     <p className="container">
                         <Link to="/Raketaci">
-                            <img className="image" src={raketaci} alt="" />
+                            <img loading="lazy" className="image" src={raketaci} alt="" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Merch</h1></div>
@@ -80,7 +80,7 @@ function ObleceniPage() {
             <div className="BottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
-                        <img src={arrowL} alt="" />
+                        <img loading="lazy" src={arrowL} alt="" />
                     <li>
                         <p>
                             <Link to="javascript:history.back()">
@@ -95,7 +95,7 @@ function ObleceniPage() {
 <div className="hurBottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
-                        <img src={arrowL} alt="" />
+                        <img loading="lazy" src={arrowL} alt="" />
                     <li>
                         <p>
                             <Link to="javascript:history.back()">

@@ -1,5 +1,5 @@
 import React from "react";
-import flex from "../images/Flex.svg"
+import flex from "../images/Flex.png"
 
 
 function Flex() {
@@ -8,7 +8,7 @@ function Flex() {
         <>
         <div className="mainPerk">
             <div className="perkImg">
-                <img src={flex} alt="Komunikativnost" />
+                <img loading="lazy" src={flex} alt="Komunikativnost" />
             </div>
             <div className="perkTxt">
                 <h2>Flexibilita</h2>

@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import post from "./images/hurPage/man_post.svg";
-import uvodni from "./images/hurPage/man_uvodni.svg";
-import plakat from "./images/hurPage/man_poster.svg";
-import stories from "./images/hurPage/man_stories.svg";
+import post from "./images/hurPage/man_post.png";
+import uvodni from "./images/hurPage/man_uvodni.png";
+import plakat from "./images/hurPage/man_poster.png";
+import stories from "./images/hurPage/man_stories.png";
 
 function hurMan() {
   return (
@@ -14,12 +14,12 @@ function hurMan() {
         </div>
         <div className="juniorGallery">
             <div className="juniorGalleryL">
-                <img src={post} alt="" />
-                <img src={uvodni} alt="" />
+                <img loading="lazy" src={post} alt="" />
+                <img loading="lazy" src={uvodni} alt="" />
             </div>
             <div className="juniorGalleryR">
-              <img src={plakat} alt="" />
-              <img src={stories} alt="" />
+              <img loading="lazy" src={plakat} alt="" />
+              <img loading="lazy" src={stories} alt="" />
             </div>
         </div>
         <div className="juniorTags">

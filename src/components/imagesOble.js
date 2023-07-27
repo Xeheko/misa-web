@@ -1,8 +1,8 @@
 //OBLECENI
-import hurricanesMik from "./images/portfolio/hurricanesMik.svg";
-import house from "./images/portfolio/house.svg";
-import wedry from "./images/portfolio/wedry.svg";
-import raketaci from "./images/portfolio/raketaci.svg";
+import hurricanesMik from "./images/portfolio/hurricanesMik.png";
+import house from "./images/portfolio/house.png";
+import wedry from "./images/portfolio/wedry.png";
+import raketaci from "./images/portfolio/raketaci.png";
 
 export const imagesOble = [
     {

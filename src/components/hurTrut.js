@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hurJunior.css";
-import event from "./images/hurPage/Hradec_event.svg";
-import post from "./images/hurPage/Hradec_post.svg";
-import stories from "./images/hurPage/Hradec_stories.svg";
+import event from "./images/hurPage/Hradec_event.png";
+import post from "./images/hurPage/Hradec_post.png";
+import stories from "./images/hurPage/Hradec_stories.png";
 
 
 function hurTrut() {
@@ -13,9 +13,9 @@ function hurTrut() {
             <h2>Game day –⁠ home</h2>
         </div>
         <div className="juniorGalleryS">
-            <img src={post} alt="" />
-            <img src={event} alt="" />
-            <img src={stories} alt="" />
+            <img loading="lazy" src={post} alt="" />
+            <img loading="lazy" src={event} alt="" />
+            <img loading="lazy" src={stories} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -1,13 +1,13 @@
 import React from 'react'
 import "./hurJunior.css";
-import space1 from "./images/hurPage/space1.svg";
-import space2 from "./images/hurPage/space2.svg";
-import space3 from "./images/hurPage/space3.svg";
-import space4 from "./images/hurPage/space4.svg";
-import space5 from "./images/hurPage/space5.svg";
-import space6 from "./images/hurPage/space6.svg";
-import space7 from "./images/hurPage/space7.svg";
-import space8 from "./images/hurPage/space8.svg";
+import space1 from "./images/hurPage/space1.png";
+import space2 from "./images/hurPage/space2.png";
+import space3 from "./images/hurPage/space3.png";
+import space4 from "./images/hurPage/space4.png";
+import space5 from "./images/hurPage/space5.png";
+import space6 from "./images/hurPage/space6.png";
+import space7 from "./images/hurPage/space7.png";
+import space8 from "./images/hurPage/space8.png";
 
 
 
@@ -20,14 +20,14 @@ function SpaceContent() {
             <h2>Space Mission</h2>
         </div>
         <div className="menuGallery">
-                <img src={space1} alt="" />
-                <img src={space2} alt="" />
-                <img src={space3} alt="" />
-                <img src={space4} alt="" />
-                <img src={space5} alt="" />
-                <img src={space6} alt="" />
-                <img src={space7} alt="" />
-                <img src={space8} alt="" />
+                <img loading="lazy" src={space1} alt="" />
+                <img loading="lazy" src={space2} alt="" />
+                <img loading="lazy" src={space3} alt="" />
+                <img loading="lazy" src={space4} alt="" />
+                <img loading="lazy" src={space5} alt="" />
+                <img loading="lazy" src={space6} alt="" />
+                <img loading="lazy" src={space7} alt="" />
+                <img loading="lazy" src={space8} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

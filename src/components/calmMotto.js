@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import motto1 from "./images/hurPage/motto1.svg";
-import motto2 from "./images/hurPage/motto2.svg";
+import motto1 from "./images/hurPage/motto1.png";
+import motto2 from "./images/hurPage/motto2.png";
 
 
 function CalmMotto() {
@@ -12,8 +12,8 @@ function CalmMotto() {
             <h2>Motto</h2>
         </div>
         <div className="juniorGalleryS">
-                <img src={motto1} alt="" />
-                <img src={motto2} alt="" />
+                <img loading="lazy" src={motto1} alt="" />
+                <img loading="lazy" src={motto2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

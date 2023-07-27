@@ -1,11 +1,11 @@
 import React from 'react'
 import "./hurJunior.css";
-import lynorit1 from "./images/hurPage/lynorit1.svg";
-import lynorit2 from "./images/hurPage/lynorit2.svg";
-import lynorit3 from "./images/hurPage/lynorit3.svg";
-import lynorit4 from "./images/hurPage/lynorit4.svg";
-import lynorit5 from "./images/hurPage/lynorit5.svg";
-import lynorit6 from "./images/hurPage/lynorit6.svg";
+import lynorit1 from "./images/hurPage/lynorit1.png";
+import lynorit2 from "./images/hurPage/lynorit2.png";
+import lynorit3 from "./images/hurPage/lynorit3.png";
+import lynorit4 from "./images/hurPage/lynorit4.png";
+import lynorit5 from "./images/hurPage/lynorit5.png";
+import lynorit6 from "./images/hurPage/lynorit6.png";
 
 
 
@@ -20,12 +20,12 @@ function KalendarLynorit() {
             <h2>Kalendář Jiří z Poděbrad </h2>
         </div>
         <div className="menuGallery">
-                <img src={lynorit1} alt="" />
-                <img src={lynorit2} alt="" />
-                <img src={lynorit3} alt="" />
-                <img src={lynorit4} alt="" />
-                <img src={lynorit5} alt="" />
-                <img src={lynorit6} alt="" />
+                <img loading="lazy" src={lynorit1} alt="" />
+                <img loading="lazy" src={lynorit2} alt="" />
+                <img loading="lazy" src={lynorit3} alt="" />
+                <img loading="lazy" src={lynorit4} alt="" />
+                <img loading="lazy" src={lynorit5} alt="" />
+                <img loading="lazy" src={lynorit6} alt="" />
         </div>
         <div className="juniorTags">
           <ul>
