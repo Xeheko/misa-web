@@ -5,8 +5,8 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 import { imagesPro } from "./imagesPro";
-import arrow from "./images/arrowSlider.png";
-import arrowL from "./images/arrowSliderL.png";
+import arrow from "./images/arrowSlider.svg";
+import arrowL from "./images/arrowSliderL.svg";
 
 
 function Portfolio() {

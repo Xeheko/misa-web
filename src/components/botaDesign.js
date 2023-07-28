@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import botaDesign1 from "./images/hurPage/botaDesign1.png";
-import botaDesign2 from "./images/hurPage/botaDesign2.png";
-import botaDesign3 from "./images/hurPage/botaDesign3.png";
-import botaDesign4 from "./images/hurPage/botaDesign4.png";
+import botaDesign1 from "./images/hurPage/botaDesign1.svg";
+import botaDesign2 from "./images/hurPage/botaDesign2.svg";
+import botaDesign3 from "./images/hurPage/botaDesign3.svg";
+import botaDesign4 from "./images/hurPage/botaDesign4.svg";
 
 
 

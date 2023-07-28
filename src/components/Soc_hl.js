@@ -1,8 +1,8 @@
 import React from "react";
 import "./Soc_hl.css";
-import FB from "./images/FB.png";
-import YT from "./images/YT.png";
-import BE from "./images/BE.png";
+import FB from "./images/FB.svg";
+import YT from "./images/YT.svg";
+import BE from "./images/BE.svg";
 
 
 function Soc_hl() {

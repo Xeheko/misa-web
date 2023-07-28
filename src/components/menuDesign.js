@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import menu1 from "./images/hurPage/menu1.png";
-import menu2 from "./images/hurPage/menu2.png";
+import menu1 from "./images/hurPage/menu1.svg";
+import menu2 from "./images/hurPage/menu2.svg";
 
 
 

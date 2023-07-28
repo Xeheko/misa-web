@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hurJunior.css";
-import post1 from "./images/hurPage/wc_velikonoce_1.png";
-import post2 from "./images/hurPage/wc_velikonoce_2.png";
-import post3 from "./images/hurPage/wc_velikonoce_3.png";
+import post1 from "./images/hurPage/wc_velikonoce_1.svg";
+import post2 from "./images/hurPage/wc_velikonoce_2.svg";
+import post3 from "./images/hurPage/wc_velikonoce_3.svg";
 
 
 function WcVelikonoce() {

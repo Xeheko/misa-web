@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./otherNavbar.css";
-import arrowL from "./images/arrowL.png";
+import arrowL from "./images/arrowL.svg";
 
 function OtherNavbar() {
   const [otherColor, setOtherColor] = useState(false);

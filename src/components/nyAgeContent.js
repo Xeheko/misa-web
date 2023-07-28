@@ -2,7 +2,7 @@ import React from 'react'
 import "./hurJunior.css";
 import final from "./images/hurPage/mockup_feed a stories_Stránka_1.svg";
 import post from "./images/hurPage/mockup_feed a stories_Stránka_2.svg";
-import stories from "./images/hurPage/myage_stories.png";
+import stories from "./images/hurPage/myage_stories.svg";
 
 
 function myAgeContent() {

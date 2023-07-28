@@ -1,6 +1,6 @@
 import React from "react";
 import "./Contactbtn.css";
-import Msg from "./images/Msg.png";
+import Msg from "./images/Msg.svg";
 import Line from "./images/Line.svg";
 
 

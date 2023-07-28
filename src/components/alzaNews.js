@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import news1 from "./images/hurPage/alza_news1.png";
-import news2 from "./images/hurPage/alza_news2.png";
+import news1 from "./images/hurPage/alza_news1.svg";
+import news2 from "./images/hurPage/alza_news2.svg";
 
 
 function AlzaNews() {

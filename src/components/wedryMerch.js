@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import wedry1 from "./images/hurPage/wedry1.png";
-import wedry2 from "./images/hurPage/wedry2.png";
+import wedry1 from "./images/hurPage/wedry1.svg";
+import wedry2 from "./images/hurPage/wedry2.svg";
 
 
 function wedryMerch() {

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import botaMockup1 from "./images/hurPage/botaMockup1.png";
-import botaMockup2 from "./images/hurPage/botaMockup2.png";
+import botaMockup1 from "./images/hurPage/botaMockup1.svg";
+import botaMockup2 from "./images/hurPage/botaMockup2.svg";
 
 
 

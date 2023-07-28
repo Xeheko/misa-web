@@ -1,5 +1,5 @@
 import React from "react";
-import spol from "../images/Spol.png"
+import spol from "../images/Spol.svg"
 
 
 function Spol() {

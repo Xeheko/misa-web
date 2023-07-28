@@ -1,10 +1,10 @@
 //ONLINE
-import alza from "./images/portfolio/alza.png";
-import mixit from "./images/portfolio/mixit.png";
-import fotbal from "./images/portfolio/fotbal.png";
-import myAge from "./images/portfolio/myAge.png";
-import hurricanes from "./images/portfolio/hurricanes.png";
-import windstorms from "./images/portfolio/windstorms.png";
+import alza from "./images/portfolio/alza.svg";
+import mixit from "./images/portfolio/mixit.svg";
+import fotbal from "./images/portfolio/fotbal.svg";
+import myAge from "./images/portfolio/myAge.svg";
+import hurricanes from "./images/portfolio/hurricanes.svg";
+import windstorms from "./images/portfolio/windstorms.svg";
 
 export const imagesOnline = [
     {

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import cola1 from "./images/hurPage/cola1.png";
-import cola2 from "./images/hurPage/cola2.png";
+import cola1 from "./images/hurPage/cola1.svg";
+import cola2 from "./images/hurPage/cola2.svg";
 
 
 

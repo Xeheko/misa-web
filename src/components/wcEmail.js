@@ -1,6 +1,6 @@
 import React from 'react'
 import "./hurJunior.css";
-import email from "./images/hurPage/wcEmail.png";
+import email from "./images/hurPage/wcEmail.svg";
 
 
 function WcEmail() {

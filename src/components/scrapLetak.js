@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import scrap1 from "./images/hurPage/scrap1.png";
-import scrap2 from "./images/hurPage/scrap2.png";
+import scrap1 from "./images/hurPage/scrap1.svg";
+import scrap2 from "./images/hurPage/scrap2.svg";
 
 
 

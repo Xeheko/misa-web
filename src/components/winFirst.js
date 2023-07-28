@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import post from "./images/hurPage/win_post.png";
-import uvodni from "./images/hurPage/win_uvodni.png";
-import plakat from "./images/hurPage/win_letak.png";
-import stories from "./images/hurPage/win_stories.png";
+import post from "./images/hurPage/win_post.svg";
+import uvodni from "./images/hurPage/win_uvodni.svg";
+import plakat from "./images/hurPage/win_letak.svg";
+import stories from "./images/hurPage/win_stories.svg";
 
 function winFirst() {
   return (

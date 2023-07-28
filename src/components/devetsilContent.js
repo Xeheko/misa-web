@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import devetsilGame1 from "./images/hurPage/devetsilGame1.png";
-import devetsilGame2 from "./images/hurPage/devetsilGame2.png";
-import devetsilGame3 from "./images/hurPage/devetsilGame3.png";
-import devetsilGame4 from "./images/hurPage/devetsilGame4.png";
+import devetsilGame1 from "./images/hurPage/devetsilGame1.svg";
+import devetsilGame2 from "./images/hurPage/devetsilGame2.svg";
+import devetsilGame3 from "./images/hurPage/devetsilGame3.svg";
+import devetsilGame4 from "./images/hurPage/devetsilGame4.svg";
 
 
 

@@ -8,14 +8,14 @@ import Footer from "./components/Footer";
 
 
 
-import hurricanes from "./components/images/portfolio/hurricanes.png";
-import windstorms from "./components/images/portfolio/windstorms.png";
-import myAge from "./components/images/portfolio/myAge.png";
-import alza from "./components/images/portfolio/alza.png";
-import calm2be from "./components/images/portfolio/calm2be.png";
-import wcVelikonoce from "./components/images/portfolio/wcVelikonoce.png";
-import fotbal from "./components/images/portfolio/fotbal.png";
-import mixit from "./components/images/portfolio/mixit.png";
+import hurricanes from "./components/images/portfolio/hurricanes.svg";
+import windstorms from "./components/images/portfolio/windstorms.svg";
+import myAge from "./components/images/portfolio/myAge.svg";
+import alza from "./components/images/portfolio/alza.svg";
+import calm2be from "./components/images/portfolio/calm2be.svg";
+import wcVelikonoce from "./components/images/portfolio/wcVelikonoce.svg";
+import fotbal from "./components/images/portfolio/fotbal.svg";
+import mixit from "./components/images/portfolio/mixit.svg";
 
 
 

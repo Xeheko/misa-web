@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import motto1 from "./images/hurPage/motto1.png";
-import motto2 from "./images/hurPage/motto2.png";
+import motto1 from "./images/hurPage/motto1.svg";
+import motto2 from "./images/hurPage/motto2.svg";
 
 
 function CalmMotto() {

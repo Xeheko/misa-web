@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hurJunior.css";
-import event from "./images/hurPage/Hradec_event.png";
-import post from "./images/hurPage/Hradec_post.png";
-import stories from "./images/hurPage/Hradec_stories.png";
+import event from "./images/hurPage/Hradec_event.svg";
+import post from "./images/hurPage/Hradec_post.svg";
+import stories from "./images/hurPage/Hradec_stories.svg";
 
 
 function hurTrut() {

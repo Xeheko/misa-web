@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import wcRent1 from "./images/hurPage/wcRent1.png";
-import wcRent2 from "./images/hurPage/wcRent2.png";
+import wcRent1 from "./images/hurPage/wcRent1.svg";
+import wcRent2 from "./images/hurPage/wcRent2.svg";
 
 
 

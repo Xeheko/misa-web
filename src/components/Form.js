@@ -2,8 +2,8 @@ import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 import "./Form.css";
 import tel from "./images/tel.svg"
-import mail from "./images/mail.png"
-import loc from "./images/loc.png"
+import mail from "./images/mail.svg"
+import loc from "./images/loc.svg"
 
 
 function Form() {

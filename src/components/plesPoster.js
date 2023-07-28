@@ -1,6 +1,6 @@
 import React from 'react'
 import "./hurJunior.css";
-import plesPoster from "./images/hurPage/plesPoster.png";
+import plesPoster from "./images/hurPage/plesPoster.svg";
 
 
 

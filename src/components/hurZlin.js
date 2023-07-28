@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hurJunior.css";
-import final from "./images/hurPage/final_score_zlin.png";
-import post from "./images/hurPage/game_day_zlin.png";
-import stories from "./images/hurPage/game_day_zlin_stories.png";
+import final from "./images/hurPage/final_score_zlin.svg";
+import post from "./images/hurPage/game_day_zlin.svg";
+import stories from "./images/hurPage/game_day_zlin_stories.svg";
 
 
 function hurZlin() {

@@ -1,21 +1,21 @@
 import React from "react";
 import "./Portfolio.css";
 
-import hurricanes from "./images/portfolio/hurricanes.png";
-import windstorms from "./images/portfolio/windstorms.png";
-import myAge from "./images/portfolio/myAge.png";
+import hurricanes from "./images/portfolio/hurricanes.svg";
+import windstorms from "./images/portfolio/windstorms.svg";
+import myAge from "./images/portfolio/myAge.svg";
 
-import wcServis from "./images/portfolio/wcServis.png";
-import bohemia from "./images/portfolio/bohemia.png";
+import wcServis from "./images/portfolio/wcServis.svg";
+import bohemia from "./images/portfolio/bohemia.svg";
 
-import hurricanesMik from "./images/portfolio/hurricanesMik.png";
-import wedry from "./images/portfolio/wedry.png";
+import hurricanesMik from "./images/portfolio/hurricanesMik.svg";
+import wedry from "./images/portfolio/wedry.svg";
 
-import spaceMission from "./images/portfolio/spaceMission.png";
-import devetsil from "./images/portfolio/devetsil.png";
+import spaceMission from "./images/portfolio/spaceMission.svg";
+import devetsil from "./images/portfolio/devetsil.svg";
 
-import menu from "./images/portfolio/menu.png";
-import kalendar from "./images/portfolio/kalendar.png";
+import menu from "./images/portfolio/menu.svg";
+import kalendar from "./images/portfolio/kalendar.svg";
 
 
 import { Link } from "react-router-dom";

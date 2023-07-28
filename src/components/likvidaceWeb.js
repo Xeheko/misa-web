@@ -1,6 +1,6 @@
 import React from 'react'
 import "./hurJunior.css";
-import likvidaceWeb from "./images/hurPage/likvidaceweb.svg";
+import likvidaceWeb from "./images/hurPage/likvidaceWeb.svg";
 
 
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import showRoom1 from "./images/hurPage/showRoom1.png";
-import showRoom2 from "./images/hurPage/showRoom2.png";
+import showRoom1 from "./images/hurPage/showRoom1.svg";
+import showRoom2 from "./images/hurPage/showRoom2.svg";
 
 
 

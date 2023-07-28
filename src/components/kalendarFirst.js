@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import kalendarium from "./images/hurPage/kalendarium.png";
-import kalendarium2 from "./images/hurPage/kalendarium2.png";
-import kalendarium3 from "./images/hurPage/kalendarium3.png";
-import kalendarium4 from "./images/hurPage/kalendarium4.png";
+import kalendarium from "./images/hurPage/kalendarium.svg";
+import kalendarium2 from "./images/hurPage/kalendarium2.svg";
+import kalendarium3 from "./images/hurPage/kalendarium3.svg";
+import kalendarium4 from "./images/hurPage/kalendarium4.svg";
 
 
 

@@ -7,14 +7,14 @@ import ScrollToTop from "./ScrollToTop";
 import Footer from "./components/Footer";
 
 
-import menu from "./components/images/portfolio/menuS.png";
-import kalendar from "./components/images/portfolio/kalendarS.png";
-import bohemiaLetak from "./components/images/portfolio/bohemiaLetak.png";
-import ples from "./components/images/portfolio/plesS.png";
-import ishowroom from "./components/images/portfolio/ishowroom.png";
-import cola from "./components/images/portfolio/colaS.png";
-import bota from "./components/images/portfolio/bota.png";
-import PF from "./components/images/portfolio/PF.png";
+import menu from "./components/images/portfolio/menuS.svg";
+import kalendar from "./components/images/portfolio/kalendarS.svg";
+import bohemiaLetak from "./components/images/portfolio/bohemiaLetak.svg";
+import ples from "./components/images/portfolio/plesS.svg";
+import ishowroom from "./components/images/portfolio/ishowroom.svg";
+import cola from "./components/images/portfolio/colaS.svg";
+import bota from "./components/images/portfolio/bota.svg";
+import PF from "./components/images/portfolio/PF.svg";
 
 
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import kalendarMock1 from "./images/hurPage/kalendarMock1.png";
-import kalendarMock2 from "./images/hurPage/kalendarMock2.png";
+import kalendarMock1 from "./images/hurPage/kalendarMock1.svg";
+import kalendarMock2 from "./images/hurPage/kalendarMock2.svg";
 
 
 

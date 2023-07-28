@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import raketaci1 from "./images/hurPage/raketaci1.png";
-import raketaci2 from "./images/hurPage/raketaci2.png";
+import raketaci1 from "./images/hurPage/raketaci1.svg";
+import raketaci2 from "./images/hurPage/raketaci2.svg";
 
 
 function RaketaciMerch() {

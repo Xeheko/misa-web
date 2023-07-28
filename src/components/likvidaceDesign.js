@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import likvidace1 from "./images/hurPage/likvidace1.png";
-import likvidace2 from "./images/hurPage/likvidace2.png";
+import likvidace1 from "./images/hurPage/likvidace1.svg";
+import likvidace2 from "./images/hurPage/likvidace2.svg";
 
 
 

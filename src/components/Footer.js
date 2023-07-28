@@ -1,9 +1,9 @@
 import React from "react";
 import "./Footer.css";
-import logo from "./images/logo_hlavni.png"
-import FB from "./images/FB.png";
-import YT from "./images/YT.png";
-import BE from "./images/BE.png";
+import logo from "./images/logo_hlavni.svg"
+import FB from "./images/FB.svg";
+import YT from "./images/YT.svg";
+import BE from "./images/BE.svg";
 import {Link} from "react-router-dom";
 
 

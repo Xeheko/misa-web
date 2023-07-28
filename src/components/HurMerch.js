@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import hurMerch1 from "./images/hurPage/hurMerch1.png";
-import hurMerch2 from "./images/hurPage/hurMerch2.png";
+import hurMerch1 from "./images/hurPage/hurMerch1.svg";
+import hurMerch2 from "./images/hurPage/hurMerch2.svg";
 
 
 function HurMerch() {

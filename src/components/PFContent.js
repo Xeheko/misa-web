@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import PF1 from "./images/hurPage/PF1.png";
-import PF2 from "./images/hurPage/PF2.png";
+import PF1 from "./images/hurPage/PF1.svg";
+import PF2 from "./images/hurPage/PF2.svg";
 
 
 

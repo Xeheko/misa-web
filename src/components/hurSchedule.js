@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hurJunior.css";
-import uvodni from "./images/hurPage/schedule_uvodni.png";
-import post from "./images/hurPage/schedule_post.png";
-import stories from "./images/hurPage/schedule_stories.png";
+import uvodni from "./images/hurPage/schedule_uvodni.svg";
+import post from "./images/hurPage/schedule_post.svg";
+import stories from "./images/hurPage/schedule_stories.svg";
 
 
 function hurSchedule() {

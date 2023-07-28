@@ -1,12 +1,12 @@
 import React from "react";
 import "./Programs.css";
-import AI from "./images/AI.png";
-import PS from "./images/PS.png";
-import Id from "./images/Id.png";
-import Xd from "./images/Xd.png";
-import Pr from "./images/Pr.png";
+import AI from "./images/AI.svg";
+import PS from "./images/PS.svg";
+import Id from "./images/Id.svg";
+import Xd from "./images/Xd.svg";
+import Pr from "./images/Pr.svg";
 import Vinci from "./images/Vinci.svg";
-import Figma from "./images/Figma.png";
+import Figma from "./images/Figma.svg";
 
 
 

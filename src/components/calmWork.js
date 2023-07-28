@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import work1 from "./images/hurPage/work1.png";
-import work2 from "./images/hurPage/work2.png";
+import work1 from "./images/hurPage/work1.svg";
+import work2 from "./images/hurPage/work2.svg";
 
 
 function CalmWork() {

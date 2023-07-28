@@ -1,6 +1,6 @@
 import React from 'react'
 import "./hurJunior.css";
-import calmDeti from "./images/hurPage/CalmDeti.png";
+import calmDeti from "./images/hurPage/CalmDeti.svg";
 
 
 

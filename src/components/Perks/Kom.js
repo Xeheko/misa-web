@@ -1,5 +1,5 @@
 import React from "react";
-import kom from "../images/Kom.png"
+import kom from "../images/Kom.svg"
 
 
 function Kom() {

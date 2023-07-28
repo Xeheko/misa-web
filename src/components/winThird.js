@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
 
-import post from "./images/hurPage/win_post3.png";
-import event from "./images/hurPage/win_event3.png";
-import stories from "./images/hurPage/win_stories3.png";
+import post from "./images/hurPage/win_post3.svg";
+import event from "./images/hurPage/win_event3.svg";
+import stories from "./images/hurPage/win_stories3.svg";
 
 
 function hurZlin() {

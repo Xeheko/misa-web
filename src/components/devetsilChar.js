@@ -1,19 +1,19 @@
 import React from 'react'
 import "./hurJunior.css";
-import devetsilChar1 from "./images/hurPage/devetsilChar1.png";
-import devetsilChar2 from "./images/hurPage/devetsilChar2.png";
-import devetsilChar3 from "./images/hurPage/devetsilChar3.png";
-import slime1 from "./images/hurPage/slime1.png";
-import slime2 from "./images/hurPage/slime2.png";
-import slime3 from "./images/hurPage/slime3.png";
-import slime4 from "./images/hurPage/slime4.png";
-import slime5 from "./images/hurPage/slime5.png";
-import slime6 from "./images/hurPage/slime6.png";
-import strom1 from "./images/hurPage/strom1.png";
-import strom2 from "./images/hurPage/strom2.png";
-import strom3 from "./images/hurPage/strom3.png";
-import srdce from "./images/hurPage/srdce.png";
-import cedule from "./images/hurPage/cedule.png";
+import devetsilChar1 from "./images/hurPage/devetsilChar1.svg";
+import devetsilChar2 from "./images/hurPage/devetsilChar2.svg";
+import devetsilChar3 from "./images/hurPage/devetsilChar3.svg";
+import slime1 from "./images/hurPage/slime1.svg";
+import slime2 from "./images/hurPage/slime2.svg";
+import slime3 from "./images/hurPage/slime3.svg";
+import slime4 from "./images/hurPage/slime4.svg";
+import slime5 from "./images/hurPage/slime5.svg";
+import slime6 from "./images/hurPage/slime6.svg";
+import strom1 from "./images/hurPage/strom1.svg";
+import strom2 from "./images/hurPage/strom2.svg";
+import strom3 from "./images/hurPage/strom3.svg";
+import srdce from "./images/hurPage/srdce.svg";
+import cedule from "./images/hurPage/cedule.svg";
 
 
 

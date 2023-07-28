@@ -1,5 +1,5 @@
 import React from "react";
-import krea from "../images/Krea.png"
+import krea from "../images/Krea.svg"
 
 
 function Krea() {

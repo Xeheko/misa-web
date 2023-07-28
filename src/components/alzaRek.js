@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
-import vys from "./images/hurPage/alzaV.png";
-import post from "./images/hurPage/alza_post.png";
+import vys from "./images/hurPage/alzaV.svg";
+import post from "./images/hurPage/alza_post.svg";
 
 
 function AlzaRek() {

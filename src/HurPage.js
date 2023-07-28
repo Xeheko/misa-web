@@ -45,8 +45,10 @@ function HurPage() {
                   <HurTrut />
                 </div>
                 <div className="hurManE">
-                  <HurMan />
+                  <HurMan />                
                 </div>
+        {/* bude zmena "HurMan"*/}
+
                 <div className="hurManE">
                   <HurScore />
                 </div>

@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hurJunior.css";
-import final from "./images/hurPage/katerina.png";
-import post from "./images/hurPage/fotbal.png";
-import stories from "./images/hurPage/agata.png";
+import final from "./images/hurPage/katerina.svg";
+import post from "./images/hurPage/fotbal.svg";
+import stories from "./images/hurPage/agata.svg";
 
 
 function myAgeContent() {

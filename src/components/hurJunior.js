@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import post from "./images/hurPage/post.png";
-import uvodni from "./images/hurPage/uvodni.png";
-import plakat from "./images/hurPage/plakat.png";
-import stories from "./images/hurPage/stories.png";
+import post from "./images/hurPage/post.svg";
+import uvodni from "./images/hurPage/uvodni.svg";
+import plakat from "./images/hurPage/plakat.svg";
+import stories from "./images/hurPage/stories.svg";
 
 function hurJunior() {
   return (

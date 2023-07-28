@@ -1,5 +1,5 @@
 import React from "react";
-import flex from "../images/Flex.png"
+import flex from "../images/Flex.svg"
 
 
 function Flex() {

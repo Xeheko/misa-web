@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import post from "./images/hurPage/win_post2.png";
-import uvodni from "./images/hurPage/win_uvodni2.png";
-import kino from "./images/hurPage/win_kino2.png";
-import stories from "./images/hurPage/win_stories2.png";
+import post from "./images/hurPage/win_post2.svg";
+import uvodni from "./images/hurPage/win_uvodni2.svg";
+import kino from "./images/hurPage/win_kino2.svg";
+import stories from "./images/hurPage/win_stories2.svg";
 
 function winSec() {
   return (

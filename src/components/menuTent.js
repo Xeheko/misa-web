@@ -1,9 +1,9 @@
 import React from 'react'
 import "./hurJunior.css";
-import mockup1 from "./images/hurPage/mockup1.png";
-import mockup2 from "./images/hurPage/mockup2.png";
-import mockup3 from "./images/hurPage/mockup3.png";
-import mockup4 from "./images/hurPage/mockup4.png";
+import mockup1 from "./images/hurPage/mockup1.svg";
+import mockup2 from "./images/hurPage/mockup2.svg";
+import mockup3 from "./images/hurPage/mockup3.svg";
+import mockup4 from "./images/hurPage/mockup4.svg";
 
 
 

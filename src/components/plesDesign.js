@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hurJunior.css";
 import ples1 from "./images/hurPage/ples1.svg";
-import ples2 from "./images/hurPage/ples2.png";
+import ples2 from "./images/hurPage/ples2.svg";
 
 
 
