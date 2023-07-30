@@ -58,7 +58,7 @@ function HurPage() {
                         <img loading="lazy" src={arrowL} alt="" />
                     <li>
                         <p>
-                            <Link to="javascript:history.back()">
+                            <Link href="#" onClick={handleBackClick}>
                                 ZPĚT NA PORTFOLIO
                             </Link>
                         </p>

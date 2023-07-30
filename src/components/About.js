@@ -35,7 +35,7 @@ function About() {
             </div>
             <div className="aboutImg">
                 <div  className="rightSide"> 
-                    <img loading="lazy" loading="lazy" src={about} id="about" alt="about"/>
+                    <img loading="lazy" src={about} id="about" alt="about"/>
                 </div>
             </div>
         </div>

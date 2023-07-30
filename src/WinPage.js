@@ -15,6 +15,12 @@ import Footer from "./components/Footer";
 function WinPage() {
 
 
+
+        const handleBackClick = () => {
+          window.history.back();
+
+        };
+
     return(
         <>
         <div className="HurPage">
@@ -47,7 +53,7 @@ function WinPage() {
                         <img loading="lazy" src={arrowL} alt="" />
                     <li>
                         <p>
-                            <Link to="javascript:history.back()">
+                            <Link href="#" onClick={handleBackClick}>
                                 ZPĚT NA PORTFOLIO
                             </Link>
                         </p>
