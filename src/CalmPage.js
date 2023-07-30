@@ -14,6 +14,10 @@ import Footer from "./components/Footer";
 
 function CalmPage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>

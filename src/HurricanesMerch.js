@@ -12,6 +12,10 @@ import Footer from "./components/Footer";
 
 function HurricanesMerch() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>

@@ -18,6 +18,10 @@ import Footer from "./components/Footer";
 
 function HurPage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>

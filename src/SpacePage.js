@@ -13,6 +13,10 @@ import Footer from "./components/Footer";
 
 function SpacePage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
     return(
         <>
         <div className="HurPage">

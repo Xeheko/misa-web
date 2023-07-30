@@ -15,6 +15,10 @@ import Footer from "./components/Footer";
 function PlesPage() {
 
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
     return(
         <>
         <div className="HurPage">

@@ -38,6 +38,7 @@ function MainPage() {
       });
     })
   );
+  
 
   useEffect(() => {
     const hiddenElements = document.querySelectorAll(

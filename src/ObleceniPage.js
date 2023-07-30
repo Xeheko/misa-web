@@ -19,6 +19,10 @@ import raketaci from "./components/images/portfolio/raketaci.svg";
 function ObleceniPage() {
 
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
     return(
         <>
             <ScrollToTop />

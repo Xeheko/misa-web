@@ -23,6 +23,10 @@ import mixit from "./components/images/portfolio/mixit.svg";
 
 function onlinePage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>

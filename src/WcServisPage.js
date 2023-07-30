@@ -14,6 +14,10 @@ import Footer from "./components/Footer";
 
 function WcServisPage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>

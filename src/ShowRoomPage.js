@@ -14,6 +14,10 @@ import Footer from "./components/Footer";
 function ShowRoomPage() {
 
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
     return(
         <>
         <div className="HurPage">

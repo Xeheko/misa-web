@@ -13,6 +13,10 @@ import Footer from "./components/Footer";
 
 function ScrapPage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>

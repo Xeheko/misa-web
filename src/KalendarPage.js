@@ -16,6 +16,10 @@ import Footer from "./components/Footer";
 function KalendarPage() {
 
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
     return(
         <>
         <div className="HurPage">

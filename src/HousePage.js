@@ -13,6 +13,10 @@ import Footer from "./components/Footer";
 
 function HousePage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>

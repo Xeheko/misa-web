@@ -13,6 +13,10 @@ import Footer from "./components/Footer";
 
 function Agepage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>

@@ -16,6 +16,10 @@ import Footer from "./components/Footer";
 
 function BotaPage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>

@@ -23,6 +23,10 @@ import PF from "./components/images/portfolio/PF.svg";
 
 function ObleceniPage() {
 
+    const handleBackClick = () => {
+        window.history.back();
+
+      };
 
     return(
         <>
