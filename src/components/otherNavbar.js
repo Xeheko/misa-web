@@ -33,7 +33,7 @@ function OtherNavbar() {
             <div className="hurBack">
                 <img loading="lazy" src={arrowL} alt="" />
             <li>
-            <a href="#" onClick={handleBackClick}>
+            <a href="/" onClick={handleBackClick}>
                     ZPĚT NA PORTFOLIO
                 </a>
           </li>

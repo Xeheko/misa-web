@@ -38,18 +38,24 @@ function MainPage() {
       });
     })
   );
-  
 
   useEffect(() => {
     const hiddenElements = document.querySelectorAll(
       ".CardL, .CardR, .PerkR, .PerkL, .leftSide, .rightSide, .contactForm"
     );
-    hiddenElements.forEach((el) => observer.current.observe(el));
-
+  
+    // Create a local variable 'currentObserver' to hold the observer.current value
+    const currentObserver = new IntersectionObserver((entries) => {
+      // Your observer logic here
+    });
+  
+    hiddenElements.forEach((el) => currentObserver.observe(el));
+  
     return () => {
-      hiddenElements.forEach((el) => observer.current.unobserve(el));
+      hiddenElements.forEach((el) => currentObserver.unobserve(el));
     };
   }, []);
+  
   
 
   return (
