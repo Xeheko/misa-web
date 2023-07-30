@@ -44,7 +44,6 @@ function MainPage() {
       ".CardL, .CardR, .PerkR, .PerkL, .leftSide, .rightSide, .contactForm"
     );
   
-    // Create a local variable 'currentObserver' to hold the observer.current value
     const currentObserver = new IntersectionObserver((entries) => {
       // Your observer logic here
     });
