@@ -1,0 +1,115 @@
+.hurFooter{
+    display: none;
+    width: 100%;
+}
+
+.HurPage{
+    height: 100%;
+    width: 100%;
+    scroll-snap-type: y mandatory;
+    overflow: scroll;
+
+}
+
+.HurPage::-webkit-scrollbar{
+    display: none;
+}
+
+.hurTitleScreen{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.noSnapTitle{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.hurPageContent{
+    background-image: url(./components/images/Hurbg.png);
+    background-size: cover;
+    position: relative;
+    margin-top: -2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+    justify-content: center;
+}   
+
+
+.hurZlin,
+.hurSchedule,
+.hurTrut,
+.hurMan{
+    margin-top: 150px;
+} 
+
+.hurJunior,
+.hurMan{
+    scroll-snap-align: center;
+}
+
+.hurJuniorE,
+.hurManE{
+    scroll-snap-align: end;
+}
+
+.hurTitleScreen,
+.hurZlin,
+.hurSchedule,
+.hurTrut{
+    scroll-snap-align: start;
+}
+
+.noSnap{
+    scroll-snap-align: none;
+}
+
+
+.hurBottomBar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+@media screen and (max-width: 950px){
+    .hurFooter{
+        display: flex;
+    }
+    .HurPage{
+        scroll-snap-type: none;
+        overflow-x: hidden;
+        scroll-behavior: auto;
+    }
+    .hurPageContent{
+        position: relative;
+        margin-top: -10%;
+    }
+    .hurPageContent > div{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hurZlin,
+    .hurSchedule,
+    .hurTrut,
+    .hurMan{
+        margin-top: 20px;
+    }
+    .hurBottomBar{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 60px;
+    } 
+    
+}
+

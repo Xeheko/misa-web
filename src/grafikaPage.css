@@ -1,0 +1,150 @@
+.onlinePage{
+    background-image: url(./components/images/portfolio/grafikaBG.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.onlinePageContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+    width: fit-content;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+
+.onlinePageContent h1{
+    align-self: flex-start;
+}
+
+.onlinePageContentImages{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 25px;
+    margin-top: 55px;
+}
+
+.onlinePageContentImages p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.obleceniPageContentImages{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 25px;
+    margin-top: 55px;
+}
+
+.obleceniPageContentImages p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.TiskPageContentImages{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 25px;
+    margin-top: 55px;
+}
+
+.TiskPageContentImages p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.TiskPageContentImages p{
+    scale: 100%;
+}
+
+.image{
+    display: flex;
+    width: 100%;
+    height: auto;
+    opacity: 1;
+}
+
+.overlay {
+    position: absolute;
+    transition: .5s ease;
+}
+  
+.container:hover .image {
+    filter: brightness(.2);
+    transition: .5s ease;
+}
+
+.container:hover .text{
+    opacity: 1;
+    transition: .5s ease;
+}
+
+.container:hover .text h1{
+    transform: translateY(0%);
+    transition: .5s ease;
+}
+
+.text {
+    pointer-events: none;
+    opacity: 0;
+    color: white;
+    letter-spacing: 3px;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    transition: .5s ease;
+}
+
+.text h1{
+    transform: translateY(100%);
+    transition: .5s ease-in;
+}
+
+.BottomBar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 90px;
+    margin-top: 80px;
+}
+
+
+@media screen and (max-width: 950px){
+.onlinePageContent{
+    width: 80%;
+    margin: 0;
+}
+.onlinePageContent h1{
+    align-self: center;
+}
+.obleceniPageContentImages{
+    justify-content: center;
+    align-items: center;
+}
+}
