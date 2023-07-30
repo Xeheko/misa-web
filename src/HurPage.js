@@ -44,9 +44,9 @@ function HurPage() {
                 <div className="hurTrut">
                   <HurTrut />
                 </div>
-                <div className="hurManE">
+                {/* <div className="hurManE">
                   <HurMan />                
-                </div>
+                </div> */}
         {/* bude zmena "HurMan"*/}
 
                 <div className="hurManE">

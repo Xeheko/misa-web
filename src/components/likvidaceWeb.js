@@ -1,19 +1,19 @@
-import React from 'react'
-import "./hurJunior.css";
-import likvidaceWeb from "./images/hurPage/likvidaceWeb.svg";
+// import React from 'react'
+// import "./hurJunior.css";
+// import likvidaceWeb from "./images/hurPage/likvidaceWeb.svg";
 
 
 
-function LikvidaceWeb() {
-  return (
-    <div className='juniorAll'>
+// function LikvidaceWeb() {
+//   return (
+//     <div className='juniorAll'>
 
-        <div className="juniorGalleryD">
-                <img loading="lazy" src={likvidaceWeb} alt="" />
-        </div>
+//         <div className="juniorGalleryD">
+//                 <img loading="lazy" src={likvidaceWeb} alt="" />
+//         </div>
 
-    </div>
-  )
-}
+//     </div>
+//   )
+// }
 
-export default LikvidaceWeb
+// export default LikvidaceWeb

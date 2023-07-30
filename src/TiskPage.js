@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 
 
 import menu from "./components/images/portfolio/menuS.svg";
-import kalendar from "./components/images/portfolio/kalendarS.svg";
+import kalendar from "./components/images/portfolio/kalendar.svg";
 import bohemiaLetak from "./components/images/portfolio/bohemiaLetak.svg";
 import ples from "./components/images/portfolio/plesS.svg";
 import ishowroom from "./components/images/portfolio/ishowroom.svg";

@@ -6,7 +6,7 @@ import arrowL from "./components/images/arrowL.svg";
 import ScrollToTop from "./ScrollToTop";
 import LikvidaceTitle from "./components/likvidaceTitle";
 import LikvidaceDesign from "./components/likvidaceDesign";
-import LikvidaceWeb from "./components/likvidaceWeb";
+// import LikvidaceWeb from "./components/likvidaceWeb";
 import Footer from "./components/Footer";
 
 
@@ -29,9 +29,9 @@ function LikvidacePage() {
                 <div className="noSnap">
                     <LikvidaceDesign />
                 </div>
-                <div className="noSnap">
+                {/* <div className="noSnap">
                     <LikvidaceWeb />
-                </div>
+                </div> */}
 
 <div className="hurBottomBar">
                 <ul className="hurmenu">
