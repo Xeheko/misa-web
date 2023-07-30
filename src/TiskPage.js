@@ -4,7 +4,7 @@ import Navbar from "./components/otherNavbar";
 import { Link } from "react-router-dom";
 import arrowL from "./components/images/arrowL.svg";
 import ScrollToTop from "./ScrollToTop";
-import Footer from "./components/Footer";
+
 
 
 import menu from "./components/images/portfolio/menuS.svg";

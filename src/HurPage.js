@@ -9,7 +9,6 @@ import HurJunior from "./components/hurJunior";
 import HurZlin from "./components/hurZlin";
 import HurSchedule from "./components/hurSchedule";
 import HurTrut from "./components/hurTrut";
-import HurMan from "./components/hurMan";
 import HurScore from "./components/hurScore";
 import Footer from "./components/Footer";
 

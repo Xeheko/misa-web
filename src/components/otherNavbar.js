@@ -20,6 +20,11 @@ function OtherNavbar() {
     };
   }, []);
 
+  const handleBackClick = () => {
+    window.history.back();
+
+  };
+
 
 
   return (
@@ -28,7 +33,7 @@ function OtherNavbar() {
             <div className="hurBack">
                 <img loading="lazy" src={arrowL} alt="" />
             <li>
-              <a href="javascript:history.back()">
+            <a href="#" onClick={handleBackClick}>
                     ZPĚT NA PORTFOLIO
                 </a>
           </li>

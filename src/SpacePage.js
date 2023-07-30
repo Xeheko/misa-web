@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./HurPage.css";
 import Navbar from "./components/otherNavbar";
 import { Link } from "react-router-dom";
