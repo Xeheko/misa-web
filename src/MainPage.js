@@ -43,18 +43,12 @@ function MainPage() {
     const hiddenElements = document.querySelectorAll(
       ".CardL, .CardR, .PerkR, .PerkL, .leftSide, .rightSide, .contactForm"
     );
-  
-    const currentObserver = new IntersectionObserver((entries) => {
-      // Your observer logic here
-    });
-  
-    hiddenElements.forEach((el) => currentObserver.observe(el));
-  
+    hiddenElements.forEach((el) => observer.current.observe(el));
+
     return () => {
-      hiddenElements.forEach((el) => currentObserver.unobserve(el));
+      hiddenElements.forEach((el) => observer.current.unobserve(el));
     };
   }, []);
-  
   
 
   return (
