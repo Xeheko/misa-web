@@ -13,7 +13,7 @@ jobs:
         HOST: ssh.rosti.cz
         USER: app
         PORT: 26720
-        NODE_VERSION: 19.9.0
+        NODE_VERSION: 18.17.1
       steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
