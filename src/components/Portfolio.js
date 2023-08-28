@@ -38,7 +38,7 @@ function Portfolio() {
 
           <p className="container">
             <Link to="/Hurricanes">
-              <img loading="lazy" className="image" src={hurricanes} alt="hurricanes" />
+              <img  className="image" src={hurricanes} alt="hurricanes" />
             </Link>
             <div className="overlay">
               <div className="text"><h1>Jičín Hurricanes</h1></div>
@@ -48,7 +48,7 @@ function Portfolio() {
 
           <p className="container">
             <Link to="/Windstorms">
-              <img loading="lazy" className="image" src={windstorms} alt="windstorms" />
+              <img  className="image" src={windstorms} alt="windstorms" />
             </Link>
             <div className="overlay">
               <div className="text"><h1>Jičín Windstorms</h1></div>
@@ -58,7 +58,7 @@ function Portfolio() {
 
           <p className="container">
             <Link to="/MyAge">
-              <img loading="lazy" className="image" src={myAge} alt="MyAge" />
+              <img  className="image" src={myAge} alt="MyAge" />
             </Link>
             <div className="overlay">
               <div className="text"><h1>MyAge</h1></div>
@@ -90,7 +90,7 @@ function Portfolio() {
 
         <p className="container">
             <Link to="/WcRent">
-              <img loading="lazy" className="image" src={wcServis} alt="" />
+              <img  className="image" src={wcServis} alt="" />
             </Link>
           <div className="overlay">
             <div className="text"><h1>WcRent</h1></div>
@@ -99,7 +99,7 @@ function Portfolio() {
 
         <p className="container">
             <Link to="/Likvidace">
-              <img loading="lazy" className="image" src={bohemia} alt="" />
+              <img  className="image" src={bohemia} alt="" />
             </Link>
           <div className="overlay">
             <div className="text"><h1>Bohemia Scrap</h1></div>
@@ -122,7 +122,7 @@ function Portfolio() {
 
           <p className="container">
             <Link to="/HurricanesMerch">
-              <img loading="lazy" className="image" src={hurricanesMik} alt="hurricanes" />
+              <img  className="image" src={hurricanesMik} alt="hurricanes" />
             </Link>
           <div className="overlay">
             <div className="text"><h1>Hurricanes mikina</h1></div>
@@ -131,7 +131,7 @@ function Portfolio() {
 
         <p className="container">
           <Link to="/WedryPage">
-            <img loading="lazy" className="image" src={wedry} alt="hurricanes" />
+            <img  className="image" src={wedry} alt="hurricanes" />
           </Link>
           <div className="overlay">
             <div className="text"><h1>Merch</h1></div>
@@ -160,7 +160,7 @@ function Portfolio() {
         <div className="projektyGrafika">
         <p className="container">
           <Link to="/SpaceMission">
-            <img loading="lazy" className="image" src={spaceMission} alt="" />
+            <img  className="image" src={spaceMission} alt="" />
           </Link>
           <div className="overlay">
             <div className="text"><h1>Space Mission</h1></div>
@@ -169,7 +169,7 @@ function Portfolio() {
 
         <p className="container">
           <Link to="/Devetsil">
-            <img loading="lazy" className="image" src={devetsil} alt="" />
+            <img  className="image" src={devetsil} alt="" />
           </Link>
           <div className="overlay">
             <div className="text"><h1>Devětsil</h1></div>
@@ -190,7 +190,7 @@ function Portfolio() {
         <div className="TiskGrafika">
         <p className="container">
           <Link to="/Menu">
-            <img loading="lazy" className="image" src={menu} alt="" />
+            <img  className="image" src={menu} alt="" />
           </Link>
           <div className="overlay">
             <div className="text"><h1>Table tent</h1></div>
@@ -198,7 +198,7 @@ function Portfolio() {
         </p>
         <p className="container" href="">
           <Link to="/Kalendar">
-            <img loading="lazy" className="image" src={kalendar} alt="" />
+            <img  className="image" src={kalendar} alt="" />
           </Link>
           <div className="overlay">
             <div className="text"><h1>Kalendář</h1></div>

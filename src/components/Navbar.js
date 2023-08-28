@@ -39,7 +39,6 @@ function Navbar() {
         <input type="checkbox" className="toggle-menu" />
         <div className="hamburger"></div>
         <ul className="menu">
-          {/* jeste udelat aby to scrollnulo na top */}
           <li>
             <a href="#MainPage" onClick={handleClick} id="navbarList">
               Úvod

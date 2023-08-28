@@ -41,12 +41,15 @@ function MainPage() {
 
   useEffect(() => {
     const hiddenElements = document.querySelectorAll(
-      ".CardL, .CardR, .PerkR, .PerkL, .leftSide, .rightSide, .contactForm"
+      ".CardL, .CardR, .PerkR, .PerkL,.leftSide, .rightSide, .contactForm"
     );
-    hiddenElements.forEach((el) => observer.current.observe(el));
+
+      const observerRef = observer.current
+
+    hiddenElements.forEach((el) => observerRef.observe(el));
 
     return () => {
-      hiddenElements.forEach((el) => observer.current.unobserve(el));
+      hiddenElements.forEach((el) => observerRef.unobserve(el));
     };
   }, []);
   
@@ -181,12 +184,12 @@ function MainPage() {
           <div className="BubbleR4">
             <BubbleR />
           </div>
-          <div className="contactForm">
+          <div className="contactForm" id="contactForm">
             <Form />
           </div>
         </div>
 
-        <div className="Footer">
+        <div className="Footer" id="footer">
             <Footer />
         </div>
     </div>

@@ -4,6 +4,7 @@ import logo from "./images/logo_hlavni.svg"
 import FB from "./images/FB.svg";
 import YT from "./images/YT.svg";
 import BE from "./images/BE.svg";
+import IG from "./images/IG.svg";
 import {Link} from "react-router-dom";
 
 
@@ -17,7 +18,7 @@ function Footer() {
             </div>
             <div className="footerR">
                 <div className="RL">
-                    <h2>IČ: 0654545</h2>
+                    <h2>IČ: 19313411</h2>
                     <h2>© 2023</h2>
                 </div>
                 <div className="RR">
@@ -29,6 +30,7 @@ function Footer() {
                     <img loading="lazy" src={YT} alt="YouTube" />
                     <img loading="lazy" src={FB} alt="Facebook" />
                     <img loading="lazy" src={BE} alt="Behance" />
+                    <img loading="lazy" src={IG} alt="Behance" />
             </div>
         </div>
         </>
