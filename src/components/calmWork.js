@@ -12,8 +12,8 @@ function CalmWork() {
             <h2>Workshop</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={work1} alt="" />
-                <img loading="lazy" src={work2} alt="" />
+                <img  src={work1} alt="" />
+                <img  src={work2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

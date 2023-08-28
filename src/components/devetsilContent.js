@@ -17,10 +17,10 @@ function DevetsilContent() {
             <h2>Devětsil</h2>
         </div>
         <div className="menuGallery">
-                <img loading="lazy" src={devetsilGame1} alt="" />
-                <img loading="lazy" src={devetsilGame2} alt="" />
-                <img loading="lazy" src={devetsilGame3} alt="" />
-                <img loading="lazy" src={devetsilGame4} alt="" />
+                <img  src={devetsilGame1} alt="" />
+                <img  src={devetsilGame2} alt="" />
+                <img  src={devetsilGame3} alt="" />
+                <img  src={devetsilGame4} alt="" />
 
         </div>
         <div className="juniorTags">

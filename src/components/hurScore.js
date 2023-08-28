@@ -13,9 +13,9 @@ function hurScore() {
             <h2>Game day –⁠ home</h2>
         </div>
         <div className="juniorGalleryS">
-            <img loading="lazy" src={score1} alt="" />
-            <img loading="lazy" src={score2} alt="" />
-            <img loading="lazy" src={score3} alt="" />
+            <img  src={score1} alt="" />
+            <img  src={score2} alt="" />
+            <img  src={score3} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

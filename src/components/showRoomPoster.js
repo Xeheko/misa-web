@@ -16,8 +16,8 @@ function ShowRoomPoster() {
             <h2>I-showroom – plakát</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={showRoom1} alt="" />
-                <img loading="lazy" src={showRoom2} alt="" />
+                <img  src={showRoom1} alt="" />
+                <img  src={showRoom2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

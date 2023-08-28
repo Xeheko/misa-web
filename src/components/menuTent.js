@@ -15,10 +15,10 @@ function MenuTent() {
             <h2>Table tent</h2>
         </div>
         <div className="menuGallery">
-                <img loading="lazy" src={mockup1} alt="" />
-                <img loading="lazy" src={mockup2} alt="" />
-                <img loading="lazy" src={mockup3} alt="" />
-                <img loading="lazy" src={mockup4} alt="" />
+                <img  src={mockup1} alt="" />
+                <img  src={mockup2} alt="" />
+                <img  src={mockup3} alt="" />
+                <img  src={mockup4} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -16,8 +16,8 @@ function ScrapLetak() {
             <h2>Bohemia scrap – Leták</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={scrap1} alt="" />
-                <img loading="lazy" src={scrap2} alt="" />
+                <img  src={scrap1} alt="" />
+                <img  src={scrap2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

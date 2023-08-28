@@ -14,9 +14,9 @@ function hurZlin() {
             <h2>Flag Schedule seasson 2023</h2>
         </div>
         <div className="juniorGalleryS">
-            <img loading="lazy" src={post} alt="" />
-            <img loading="lazy" src={event} alt="" />
-            <img loading="lazy" src={stories} alt="" />
+            <img  src={post} alt="" />
+            <img  src={event} alt="" />
+            <img  src={stories} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

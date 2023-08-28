@@ -13,8 +13,8 @@ function AlzaRek() {
         </div>
         <div className="juniorGalleryL">
             <div className="alzaU">
-                <img loading="lazy" src={vys} alt="" />
-                {/* <img loading="lazy" src={post} alt="" /> */}
+                <img  src={vys} alt="" />
+                {/* <img  src={post} alt="" /> */}
             </div>
         </div>
         <div className="juniorTags">

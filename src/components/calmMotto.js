@@ -12,8 +12,8 @@ function CalmMotto() {
             <h2>Motto</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={motto1} alt="" />
-                <img loading="lazy" src={motto2} alt="" />
+                <img  src={motto1} alt="" />
+                <img  src={motto2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

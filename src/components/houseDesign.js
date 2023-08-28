@@ -13,9 +13,9 @@ function HouseDesign() {
             <h2>Potisk mikiny</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={houseDesign1} alt="" />
-                <img loading="lazy" src={houseDesign2} alt="" />
-                <img loading="lazy" src={houseDesign3} alt="" />
+                <img  src={houseDesign1} alt="" />
+                <img  src={houseDesign2} alt="" />
+                <img  src={houseDesign3} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

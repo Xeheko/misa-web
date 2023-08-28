@@ -17,10 +17,10 @@ function KalendarFirst() {
             <h2>Kalendář Jiří z Poděbrad </h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={kalendarium} alt="" />
-                <img loading="lazy" src={kalendarium2} alt="" />
-                <img loading="lazy" src={kalendarium3} alt="" />
-                <img loading="lazy" src={kalendarium4} alt="" />
+                <img  src={kalendarium} alt="" />
+                <img  src={kalendarium2} alt="" />
+                <img  src={kalendarium3} alt="" />
+                <img  src={kalendarium4} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

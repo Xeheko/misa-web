@@ -20,12 +20,12 @@ function KalendarLynorit() {
             <h2>Kalendář Jiří z Poděbrad </h2>
         </div>
         <div className="menuGallery">
-                <img loading="lazy" src={lynorit1} alt="" />
-                <img loading="lazy" src={lynorit2} alt="" />
-                <img loading="lazy" src={lynorit3} alt="" />
-                <img loading="lazy" src={lynorit4} alt="" />
-                <img loading="lazy" src={lynorit5} alt="" />
-                <img loading="lazy" src={lynorit6} alt="" />
+                <img  src={lynorit1} alt="" />
+                <img  src={lynorit2} alt="" />
+                <img  src={lynorit3} alt="" />
+                <img  src={lynorit4} alt="" />
+                <img  src={lynorit5} alt="" />
+                <img  src={lynorit6} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -14,8 +14,8 @@ function MenuDesign() {
             <h2>Table tent</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={menu1} alt="" />
-                <img loading="lazy" src={menu2} alt="" />
+                <img  src={menu1} alt="" />
+                <img  src={menu2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

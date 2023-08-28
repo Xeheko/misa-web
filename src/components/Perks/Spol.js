@@ -8,7 +8,7 @@ function Spol() {
         <>
         <div className="mainPerk">
             <div className="perkImg">
-                <img loading="lazy" src={spol} alt="Komunikativnost" />
+                <img  src={spol} alt="Komunikativnost" />
             </div>
             <div className="perkTxt">
                 <h2>Spolehlivost</h2>

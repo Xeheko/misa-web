@@ -13,9 +13,9 @@ function myAgeContent() {
             <h2>MyAge – reklama⁠  </h2>
         </div>
         <div className="juniorGallery">
-            <img loading="lazy" src={post} alt="" />
-            <img loading="lazy" src={stories} alt="" />
-            <img loading="lazy" src={final} alt="" />
+            <img  src={post} alt="" />
+            <img  src={stories} alt="" />
+            <img  src={final} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -16,8 +16,8 @@ function PlesDesign() {
             <h2>Design myslivecký ples</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={ples1} alt="" />
-                <img loading="lazy" src={ples2} alt="" />
+                <img  src={ples1} alt="" />
+                <img  src={ples2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

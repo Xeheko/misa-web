@@ -11,9 +11,9 @@ function WcRentWeb() {
     <div className='juniorAll'>
 
         <div className="juniorGalleryD">
-                <img loading="lazy" src={wcRentWeb1} alt="" />
-                <img loading="lazy" src={wcRentWeb2} alt="" />
-                <img loading="lazy" src={wcRentWeb3} alt="" />
+                <img  src={wcRentWeb1} alt="" />
+                <img  src={wcRentWeb2} alt="" />
+                <img  src={wcRentWeb3} alt="" />
         </div>
 
     </div>

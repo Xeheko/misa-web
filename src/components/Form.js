@@ -36,15 +36,15 @@ function Form() {
                 </div>
                 <div className="formContact">
                     <div className="formMail">
-                        <img loading="lazy" src={mail} alt="mail" />
+                        <img  src={mail} alt="mail" />
                         <h2>m.mrazkova20@gmail.com</h2>
                     </div>
                     <div className="formTel">
-                        <img loading="lazy" src={tel} alt="telefon" />
+                        <img  src={tel} alt="telefon" />
                         <h2>+420 736 122 667</h2>
                     </div>
                     <div className="formLoc">
-                        <img loading="lazy" src={loc} alt="město" />
+                        <img  src={loc} alt="město" />
                         <h2>Poděbrady</h2>
                     </div>
                 </div>

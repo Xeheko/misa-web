@@ -16,13 +16,13 @@ function Programs() {
     return(
         <>
             <div className="content">
-                <img loading="lazy" src={AI}  alt="AI"/>
-                <img loading="lazy" src={PS}  alt="PS"/>
-                <img loading="lazy" src={Id}  alt="Id"/>
-                <img loading="lazy" src={Xd}  alt="Xd"/>
-                <img loading="lazy" src={Pr}  alt="Pr"/>
-                <img loading="lazy" src={Vinci} alt="Vinci"/>
-                <img loading="lazy" src={Figma} alt="Figma"/>
+                <img  src={AI}  alt="AI"/>
+                <img  src={PS}  alt="PS"/>
+                <img  src={Id}  alt="Id"/>
+                <img  src={Xd}  alt="Xd"/>
+                <img  src={Pr}  alt="Pr"/>
+                <img  src={Vinci} alt="Vinci"/>
+                <img  src={Figma} alt="Figma"/>
             </div>
         </>
 

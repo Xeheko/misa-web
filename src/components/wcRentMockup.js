@@ -13,8 +13,8 @@ function WcRentMockup() {
             <h2>Web design</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={wcRent1} alt="" />
-                <img loading="lazy" src={wcRent2} alt="" />
+                <img  src={wcRent1} alt="" />
+                <img  src={wcRent2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -13,9 +13,9 @@ function hurSchedule() {
             <h2>Schedule seasson 2023</h2>
         </div>
         <div className="juniorGalleryS">
-            <img loading="lazy" src={post} alt="" />
-            <img loading="lazy" src={uvodni} alt="" />
-            <img loading="lazy" src={stories} alt="" />
+            <img  src={post} alt="" />
+            <img  src={uvodni} alt="" />
+            <img  src={stories} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -18,8 +18,8 @@ function BotaPoster() {
             <h2>Bubble led shoes</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={botaPoster1} alt="" />
-                <img loading="lazy" src={botaPoster2} alt="" />
+                <img  src={botaPoster1} alt="" />
+                <img  src={botaPoster2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

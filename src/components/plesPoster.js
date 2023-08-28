@@ -15,7 +15,7 @@ function PlesPoster() {
             <h2>Myslivecký ples - plakát</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={plesPoster} alt="" />
+                <img  src={plesPoster} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -16,8 +16,8 @@ function ColaPoster() {
             <h2>Coca-cola - reklamní banner</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={cola1} alt="" />
-                <img loading="lazy" src={cola2} alt="" />
+                <img  src={cola1} alt="" />
+                <img  src={cola2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

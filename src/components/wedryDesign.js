@@ -12,8 +12,8 @@ function WedryDesign() {
             <h2>Potisk trika</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={wedryDesign1} alt="" />
-                <img loading="lazy" src={wedryDesign2} alt="" />
+                <img  src={wedryDesign1} alt="" />
+                <img  src={wedryDesign2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -43,7 +43,7 @@ function ObleceniPage() {
 
                     <p className="container">
                         <Link to="/HurricanesMerch">
-                            <img loading="lazy" className="image" src={hurricanesMik} alt="" />
+                            <img  className="image" src={hurricanesMik} alt="" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Hurricanes mikina</h1></div>
@@ -52,7 +52,7 @@ function ObleceniPage() {
 
                     <p className="container">
                         <Link to="/HousePage">
-                            <img loading="lazy" className="image" src={house} alt="" />
+                            <img  className="image" src={house} alt="" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Merch</h1></div>
@@ -61,7 +61,7 @@ function ObleceniPage() {
 
                     <p className="container">
                         <Link to="/WedryPage">
-                            <img loading="lazy" className="image" src={wedry} alt="" />
+                            <img  className="image" src={wedry} alt="" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Merch</h1></div>
@@ -69,7 +69,7 @@ function ObleceniPage() {
                     </p>
                     <p className="container">
                         <Link to="/Raketaci">
-                            <img loading="lazy" className="image" src={raketaci} alt="" />
+                            <img  className="image" src={raketaci} alt="" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Merch</h1></div>
@@ -84,7 +84,7 @@ function ObleceniPage() {
             <div className="BottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
-                        <img loading="lazy" src={arrowL} alt="" />
+                        <img  src={arrowL} alt="" />
                     <li>
                         <p>
                             <Link href="#" onClick={handleBackClick}>
@@ -99,7 +99,7 @@ function ObleceniPage() {
 <div className="hurBottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
-                        <img loading="lazy" src={arrowL} alt="" />
+                        <img  src={arrowL} alt="" />
                     <li>
                         <p>
                             <Link href="#" onClick={handleBackClick}>

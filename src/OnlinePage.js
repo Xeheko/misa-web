@@ -48,7 +48,7 @@ function onlinePage() {
 
                     <p className="container">
                         <Link to="/Hurricanes">
-                            <img loading="lazy" className="image" src={hurricanes} alt="hurricanes" />
+                            <img  className="image" src={hurricanes} alt="hurricanes" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Jičín Hurricanes</h1></div>
@@ -58,7 +58,7 @@ function onlinePage() {
                 
                     <p className="container">
                         <Link to="/Windstorms">
-                            <img loading="lazy" className="image" src={windstorms} alt="windstorms" />
+                            <img  className="image" src={windstorms} alt="windstorms" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Jičín Windstorms</h1></div>
@@ -66,7 +66,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
                         <Link to="/MyAge">
-                            <img loading="lazy" className="image" src={myAge} alt="MyAge" />
+                            <img  className="image" src={myAge} alt="MyAge" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>MyAge</h1></div>
@@ -75,7 +75,7 @@ function onlinePage() {
 
                     <p className="container">
                         <Link to="/Alza">
-                            <img loading="lazy" className="image" src={alza} alt="hurricanes" />
+                            <img  className="image" src={alza} alt="hurricanes" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Alza</h1></div>
@@ -83,7 +83,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
                         <Link to="/Calm2Be">
-                            <img loading="lazy" className="image" src={calm2be} alt="Calm2Be" />
+                            <img  className="image" src={calm2be} alt="Calm2Be" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Calm2Be</h1></div>
@@ -91,7 +91,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
                         <Link to="/WcServis">
-                            <img loading="lazy" className="image" src={wcVelikonoce} alt="Calm2Be" />
+                            <img  className="image" src={wcVelikonoce} alt="Calm2Be" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>WcServis</h1></div>
@@ -99,7 +99,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
                         <Link to="/Sparta">
-                            <img loading="lazy" className="image" src={fotbal} alt="MyAge" />
+                            <img  className="image" src={fotbal} alt="MyAge" />
                         </Link>
                         <div className="overlay">
                             <div className="text"><h1>Fotbalové karty</h1></div>
@@ -107,7 +107,7 @@ function onlinePage() {
                     </p>
                     <p className="container">
 
-                            <img loading="lazy" className="image" src={mixit} alt="windstorms" />
+                            <img  className="image" src={mixit} alt="windstorms" />
 
                         <div className="overlay">
                             <div className="text"><h1>Mixit</h1></div>
@@ -123,7 +123,7 @@ function onlinePage() {
             <div className="BottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
-                        <img loading="lazy" src={arrowL} alt="" />
+                        <img  src={arrowL} alt="" />
                     <li>
                         <p>
                             <Link href="#" onClick={handleBackClick}>

@@ -16,9 +16,9 @@ function KalendarSecond() {
             <h2>Kalendář Jiří z Poděbrad </h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={kalendarium5} alt="" />
-                <img loading="lazy" src={kalendarium6} alt="" />
-                <img loading="lazy" src={kalendarium7} alt="" />
+                <img  src={kalendarium5} alt="" />
+                <img  src={kalendarium6} alt="" />
+                <img  src={kalendarium7} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

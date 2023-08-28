@@ -13,9 +13,9 @@ function WcVelikonoce() {
             <h2>Veselé Velikonoce WC servis</h2>
         </div>
         <div className="juniorGallery">
-                <img loading="lazy" src={post1} alt="" />
-                <img loading="lazy" src={post2} alt="" />
-                <img loading="lazy" src={post3} alt="" />
+                <img  src={post1} alt="" />
+                <img  src={post2} alt="" />
+                <img  src={post3} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

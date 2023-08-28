@@ -16,8 +16,8 @@ function ScrapLogo() {
             <h2>Bohemia scrap – Logo</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={scrapLogo1} alt="" />
-                <img loading="lazy" src={scrapLogo2} alt="" />
+                <img  src={scrapLogo1} alt="" />
+                <img  src={scrapLogo2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

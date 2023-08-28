@@ -10,7 +10,7 @@ function CardGraf() {
 
         <div className="Card">
             <div className="ContentCard">
-                <img loading="lazy" src={graf} alt="grafika" id="graf"></img>
+                <img  src={graf} alt="grafika" id="graf"></img>
                 <h3>Grafika</h3>
                 <div className="Text">
                     <p>Vytvořím Vám grafiku,<br />
@@ -22,7 +22,7 @@ function CardGraf() {
             </div>
                 <input type="checkbox" id="btnControl"/>
                 <label className="btn" for="btnControl">
-                    <img loading="lazy" src={arrow} id="arrow" className="arrowimg" alt="arrow" />
+                    <img  src={arrow} id="arrow" className="arrowimg" alt="arrow" />
                 </label>
 
             <div className="border">

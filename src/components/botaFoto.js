@@ -19,8 +19,8 @@ function BotaFoto() {
             <h2>Bubble led shoes</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={botaFoto1} alt="" />
-                <img loading="lazy" src={botaFoto2} alt="" />
+                <img  src={botaFoto1} alt="" />
+                <img  src={botaFoto2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

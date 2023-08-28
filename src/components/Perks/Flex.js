@@ -8,7 +8,7 @@ function Flex() {
         <>
         <div className="mainPerk">
             <div className="perkImg">
-                <img loading="lazy" src={flex} alt="Komunikativnost" />
+                <img  src={flex} alt="Komunikativnost" />
             </div>
             <div className="perkTxt">
                 <h2>Flexibilita</h2>

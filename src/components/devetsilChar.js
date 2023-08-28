@@ -29,35 +29,35 @@ function DevetsilChar() {
         <div className="charGallery">
           <div className="devetsilChar">
                 <p>Skok</p>
-                <img loading="lazy" src={devetsilChar1} alt="" />
+                <img  src={devetsilChar1} alt="" />
           </div>
           <div className="devetsilChar">
                 <p>Chůze</p>
-                <img loading="lazy" src={devetsilChar2} alt="" />
+                <img  src={devetsilChar2} alt="" />
           </div>
           <div className="devetsilChar">
                 <p>Smrt</p>
-                <img loading="lazy" src={devetsilChar3} alt="" />
+                <img  src={devetsilChar3} alt="" />
           </div>
           
 
         </div>
         <div className="slimeGallery">
-                <img loading="lazy" src={slime1} alt="" />
-                <img loading="lazy" src={slime2} alt="" />
-                <img loading="lazy" src={slime3} alt="" />
-                <img loading="lazy" src={slime4} alt="" />
-                <img loading="lazy" src={slime5} alt="" />
-                <img loading="lazy" src={slime6} alt="" />
+                <img  src={slime1} alt="" />
+                <img  src={slime2} alt="" />
+                <img  src={slime3} alt="" />
+                <img  src={slime4} alt="" />
+                <img  src={slime5} alt="" />
+                <img  src={slime6} alt="" />
         </div>
 
         <div className="slimeGallery">
-                <img loading="lazy" src={strom1} alt="" />
-                <img loading="lazy" src={strom2} alt="" />
-                <img loading="lazy" src={strom3} alt="" />
+                <img  src={strom1} alt="" />
+                <img  src={strom2} alt="" />
+                <img  src={strom3} alt="" />
                 <div className="juniorGalleryL">
-                  <img loading="lazy" src={srdce} alt="" />
-                  <img loading="lazy" src={cedule} alt="" />
+                  <img  src={srdce} alt="" />
+                  <img  src={cedule} alt="" />
                 </div>
 
         </div>

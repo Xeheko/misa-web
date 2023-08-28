@@ -84,6 +84,13 @@
     opacity: 70%;
 }
 
+.footerSoc1,
+.footerSoc2{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
 @media screen and (max-width: 950px){
    .footer{
         flex-direction: row;

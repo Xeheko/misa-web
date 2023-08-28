@@ -11,7 +11,7 @@ function WcEmail() {
             <h2>Veselé Velikonoce WC servis</h2>
         </div>
         <div className="juniorGallery">
-                <img loading="lazy" src={email} alt="" />
+                <img  src={email} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

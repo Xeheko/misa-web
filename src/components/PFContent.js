@@ -18,8 +18,8 @@ function PFContent() {
             <h2>PF 2021</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={PF1} alt="" />
-                <img loading="lazy" src={PF2} alt="" />
+                <img  src={PF1} alt="" />
+                <img  src={PF2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

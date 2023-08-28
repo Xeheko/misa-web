@@ -14,7 +14,7 @@ function Portfolio() {
   function SampleNextArrow(props) {
     const { className, style, onClick } = props;
     return (
-      <img loading="lazy" 
+      <img  
       className={className}
       id="arrowR"
       src={arrow} alt="" 
@@ -27,7 +27,7 @@ function Portfolio() {
   function SamplePrevArrow(props) {
     const { className, style, onClick } = props;
     return (
-      <img loading="lazy" 
+      <img  
       className={className}
       id="arrowL"
       src={arrowL} alt="" 
@@ -110,7 +110,7 @@ function Portfolio() {
             <div className="cardPro">
               <div className="card-top">
                 <a href={item.category}>
-                <img loading="lazy"
+                <img 
                   src={
                     defaultImage[item.title] === item.title
                       ? defaultImage.linkDefault

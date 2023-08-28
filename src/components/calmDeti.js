@@ -12,7 +12,7 @@ function CalmDeti() {
             <h2>Mezinárodní den dětí</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={calmDeti} alt="" />
+                <img  src={calmDeti} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

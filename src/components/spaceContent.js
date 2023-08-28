@@ -20,14 +20,14 @@ function SpaceContent() {
             <h2>Space Mission</h2>
         </div>
         <div className="menuGallery">
-                <img loading="lazy" src={space1} alt="" />
-                <img loading="lazy" src={space2} alt="" />
-                <img loading="lazy" src={space3} alt="" />
-                <img loading="lazy" src={space4} alt="" />
-                <img loading="lazy" src={space5} alt="" />
-                <img loading="lazy" src={space6} alt="" />
-                <img loading="lazy" src={space7} alt="" />
-                <img loading="lazy" src={space8} alt="" />
+                <img  src={space1} alt="" />
+                <img  src={space2} alt="" />
+                <img  src={space3} alt="" />
+                <img  src={space4} alt="" />
+                <img  src={space5} alt="" />
+                <img  src={space6} alt="" />
+                <img  src={space7} alt="" />
+                <img  src={space8} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

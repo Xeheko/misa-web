@@ -8,7 +8,7 @@ function Krea() {
         <>
         <div className="mainPerk">
             <div className="perkImg">
-                <img loading="lazy" src={krea} alt="Komunikativnost" />
+                <img  src={krea} alt="Komunikativnost" />
             </div>
             <div className="perkTxt">
                 <h2>Kreativita</h2>

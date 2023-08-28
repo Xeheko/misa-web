@@ -9,7 +9,7 @@
 //     <div className='juniorAll'>
 
 //         <div className="juniorGalleryD">
-//                 <img loading="lazy" src={likvidaceWeb} alt="" />
+//                 <img  src={likvidaceWeb} alt="" />
 //         </div>
 
 //     </div>

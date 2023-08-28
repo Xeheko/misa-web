@@ -14,12 +14,12 @@ function winSec() {
         </div>
         <div className="juniorGallery">
             <div className="juniorGalleryL">
-                <img loading="lazy" src={uvodni} alt="" />
-                <img loading="lazy" src={kino} alt="" />
+                <img  src={uvodni} alt="" />
+                <img  src={kino} alt="" />
             </div>
             <div className="juniorGalleryR">
-              <img loading="lazy" src={stories} alt="" />
-              <img loading="lazy" src={post} alt="" />
+              <img  src={stories} alt="" />
+              <img  src={post} alt="" />
             </div>
         </div>
         <div className="juniorTags">

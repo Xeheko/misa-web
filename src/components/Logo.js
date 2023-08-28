@@ -9,8 +9,8 @@ function Logo() {
     return(
         <>
         <div className="Logo">
-            <img loading="lazy" src={logo} alt="logo"></img>
-            <img loading="lazy" src={text} alt="logo"></img>
+            <img  src={logo} alt="logo"></img>
+            <img  src={text} alt="logo"></img>
         </div>
         </>
 

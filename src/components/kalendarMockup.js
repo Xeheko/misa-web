@@ -14,8 +14,8 @@ function KalendarMockup() {
             <h2>Kalendář Jiří z Poděbrad </h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={kalendarMock1} alt="" />
-                <img loading="lazy" src={kalendarMock2} alt="" />
+                <img  src={kalendarMock1} alt="" />
+                <img  src={kalendarMock2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

@@ -16,8 +16,8 @@ function BotaMockup() {
             <h2>Bubble led shoes</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={botaMockup1} alt="" />
-                <img loading="lazy" src={botaMockup2} alt="" />
+                <img  src={botaMockup1} alt="" />
+                <img  src={botaMockup2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

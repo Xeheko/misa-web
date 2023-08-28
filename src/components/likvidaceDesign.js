@@ -13,8 +13,8 @@ function LikvidaceDesign() {
             <h2>Web design</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={likvidace1} alt="" />
-                <img loading="lazy" src={likvidace2} alt="" />
+                <img  src={likvidace1} alt="" />
+                <img  src={likvidace2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

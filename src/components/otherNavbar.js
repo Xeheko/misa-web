@@ -31,7 +31,7 @@ function OtherNavbar() {
     <div className={otherColor ? "hurHeader hurHeader-bg" : "hurHeader"}>
         <ul className="hurmenu">
             <div className="hurBack">
-                <img loading="lazy" src={arrowL} alt="" />
+                <img  src={arrowL} alt="" />
             <li>
             <a href="/" onClick={handleBackClick}>
                     ZPĚT NA PORTFOLIO

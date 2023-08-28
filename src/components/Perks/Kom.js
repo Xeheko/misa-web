@@ -8,7 +8,7 @@ function Kom() {
         <>
         <div className="mainPerk">
             <div className="perkImg">
-                <img loading="lazy" src={kom} alt="Komunikativnost" />
+                <img  src={kom} alt="Komunikativnost" />
             </div>
             <div className="perkTxt">
                 <h2>Komunikativnost</h2>

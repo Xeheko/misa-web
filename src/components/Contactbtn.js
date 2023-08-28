@@ -11,8 +11,8 @@ function Contactbtn() {
         <a href="#formPage">
         <div className="ContactBtn">
             <p>Domluvit si schůzku</p>
-            <img loading="lazy" src={Line} alt="line" id="line"/>
-            <img loading="lazy" src={Msg} alt="Msg" id="msg" />
+            <img  src={Line} alt="line" id="line"/>
+            <img  src={Msg} alt="Msg" id="msg" />
         </div>
         </a>
         </>

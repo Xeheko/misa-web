@@ -12,8 +12,8 @@ function wedryMerch() {
             <h2>Triko Wedry</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={wedry1} alt="" />
-                <img loading="lazy" src={wedry2} alt="" />
+                <img  src={wedry1} alt="" />
+                <img  src={wedry2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

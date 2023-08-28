@@ -14,7 +14,7 @@ function Footer() {
         <>
         <div className="footer">
             <div className="footerL">
-                <img loading="lazy" src={logo} alt="logo" />
+                <img  src={logo} alt="logo" />
             </div>
             <div className="footerR">
                 <div className="RL">
@@ -27,10 +27,14 @@ function Footer() {
                 </div>
             </div>
             <div className="footerSoc">
-                    <img loading="lazy" src={YT} alt="YouTube" />
-                    <img loading="lazy" src={FB} alt="Facebook" />
-                    <img loading="lazy" src={BE} alt="Behance" />
-                    <img loading="lazy" src={IG} alt="Behance" />
+                    <div className="footerSoc1">
+                        <img  src={YT} alt="YouTube" />
+                        <img  src={FB} alt="Facebook" />
+                    </div>
+                    <div className="footerSoc2">
+                        <img  src={BE} alt="Behance" />
+                        <img  src={IG} alt="Behance" />
+                    </div>
             </div>
         </div>
         </>

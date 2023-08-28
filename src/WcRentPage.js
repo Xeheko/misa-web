@@ -41,7 +41,7 @@ function WcRent() {
 <div className="hurBottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
-                        <img loading="lazy" src={arrowL} alt="" />
+                        <img  src={arrowL} alt="" />
                     <li>
                         <p>
                             <Link href="#" onClick={handleBackClick}>

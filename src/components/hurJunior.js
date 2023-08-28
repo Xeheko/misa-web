@@ -14,12 +14,12 @@ function hurJunior() {
         </div>
         <div className="juniorGallery">
             <div className="juniorGalleryL">
-                <img loading="lazy" src={post} alt="" />
-                <img loading="lazy" src={uvodni} alt="" />
+                <img  src={post} alt="" />
+                <img  src={uvodni} alt="" />
             </div>
             <div className="juniorGalleryR">
-              <img loading="lazy" src={plakat} alt="" />
-              <img loading="lazy" src={stories} alt="" />
+              <img  src={plakat} alt="" />
+              <img  src={stories} alt="" />
             </div>
         </div>
         <div className="juniorTags">

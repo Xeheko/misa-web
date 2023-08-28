@@ -19,10 +19,10 @@ function BotaDesign() {
             <h2>Bubble led shoes</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={botaDesign1} alt="" />
-                <img loading="lazy" src={botaDesign2} alt="" />
-                <img loading="lazy" src={botaDesign3} alt="" />
-                <img loading="lazy" src={botaDesign4} alt="" />
+                <img  src={botaDesign1} alt="" />
+                <img  src={botaDesign2} alt="" />
+                <img  src={botaDesign3} alt="" />
+                <img  src={botaDesign4} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

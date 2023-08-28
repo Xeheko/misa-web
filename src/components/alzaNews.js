@@ -12,8 +12,8 @@ function AlzaNews() {
             <h2>Alza – newsletter</h2>
         </div>
         <div className="juniorGallery">
-                <img loading="lazy" src={news1} alt="" />
-                <img loading="lazy" src={news2} alt="" />
+                <img  src={news1} alt="" />
+                <img  src={news2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>

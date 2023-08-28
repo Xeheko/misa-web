@@ -12,8 +12,8 @@ function HurMerch() {
             <h2>Mikina Jičín Hurricanes</h2>
         </div>
         <div className="juniorGalleryS">
-                <img loading="lazy" src={hurMerch1} alt="" />
-                <img loading="lazy" src={hurMerch2} alt="" />
+                <img  src={hurMerch1} alt="" />
+                <img  src={hurMerch2} alt="" />
         </div>
         <div className="juniorTags">
           <ul>
