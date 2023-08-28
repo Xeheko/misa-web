@@ -81,20 +81,6 @@ function ObleceniPage() {
 
             </div>
 
-            <div className="BottomBar">
-                <ul className="hurmenu">
-                    <div className="hurBack">
-                        <img  src={arrowL} alt="" />
-                    <li>
-                        <p>
-                            <Link href="#" onClick={handleBackClick}>
-                                ZPĚT NA PORTFOLIO
-                            </Link>
-                        </p>
-                    </li>
-                    </div>
-                </ul>
-            </div>
 
 <div className="hurBottomBar">
                 <ul className="hurmenu">

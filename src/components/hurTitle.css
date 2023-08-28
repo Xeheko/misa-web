@@ -197,7 +197,7 @@
 
     }
 
-    .hurTitle, .ageTitle, .alzaTitle, .spartaTitle, .winTitle{
+    .hurTitle, .alzaTitle, .spartaTitle, .winTitle{
         background-position: 50% 0%;
         width: 100%;
         height: 100%;
@@ -236,6 +236,17 @@
     .scrapTitle, 
     .colaTitle{
         background-size: contain;
+    }
+    .ageTitle{
+        background-position: 80% 0%;
+        width: 100%;
+        height: 100%;
+    }
+    .wcRentTitle{
+        background-position: 50% 50%;
+        width: 100%;
+        height: 100%;
+        background-size: 90%;
     }
 
 }
