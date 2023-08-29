@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import "./Navbar.css";
-import { Link } from "react-router-dom";
 import Logo from "./Logo";
 
 function Navbar() {
@@ -30,9 +29,9 @@ function Navbar() {
   return (
     <div className={color ? "header header-bg" : "header"}>
       <div className={color ? "logo logo-bg" : "logo"}>
-        <Link to="/">
+        <a href="#MainPage" onClick={handleClick}>
           <Logo />
-        </Link>
+        </a>
       </div>
 
       <div className={color ? "navigation navigation-bg" : "navigation"}>

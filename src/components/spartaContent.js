@@ -10,7 +10,8 @@ function myAgeContent() {
     <div className='juniorAll'>
         <div className="juniorHeader">
             <h3>Projekt</h3>
-            <h2>AC Sparta Praha – karty hráček</h2>
+            <h2 id='pcText'>AC Sparta Praha – karty hráček</h2>
+            <h2 id='mobileText'>AC Sparta Praha karty hráček</h2>
         </div>
         <div className="juniorGallery">
             <img  src={post} alt="" />

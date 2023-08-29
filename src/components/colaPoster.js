@@ -13,7 +13,8 @@ function ColaPoster() {
     <div className='juniorAll'>
         <div className="juniorHeader">
             <h3>Projekt</h3>
-            <h2>Coca-cola - reklamní banner</h2>
+            <h2 id='pcText'>Coca-cola - reklamní banner</h2>
+            <h2 id='mobileText'>Coca-cola reklamní banner</h2>
         </div>
         <div className="juniorGalleryS">
                 <img  src={cola1} alt="" />

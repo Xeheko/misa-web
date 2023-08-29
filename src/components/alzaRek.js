@@ -9,7 +9,8 @@ function AlzaRek() {
     <div className='juniorAll'>
         <div className="juniorHeader">
             <h3>Projekt</h3>
-            <h2>Alza – reklama</h2>
+            <h2 id='pcText'>Alza – reklama</h2>
+            <h2 id='mobileText'>Alza reklama</h2>
         </div>
         <div className="juniorGalleryL">
             <div className="alzaU">

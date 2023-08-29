@@ -13,7 +13,8 @@ function ShowRoomPoster() {
     <div className='juniorAll'>
         <div className="juniorHeader">
             <h3>Projekt</h3>
-            <h2>I-showroom – plakát</h2>
+            <h2 id='pcText'>I-showroom – plakát</h2>
+            <h2 id='mobileText'>I-showroom plakát</h2>
         </div>
         <div className="juniorGalleryS">
                 <img  src={showRoom1} alt="" />

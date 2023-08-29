@@ -12,7 +12,8 @@ function PlesPoster() {
     <div className='juniorAll'>
         <div className="juniorHeader">
             <h3>Projekt</h3>
-            <h2>Myslivecký ples - plakát</h2>
+            <h2 id='pcText'>Myslivecký ples - plakát</h2>
+            <h2 id='mobileText'>Myslivecký ples plakát</h2>
         </div>
         <div className="juniorGalleryS">
                 <img  src={plesPoster} alt="" />

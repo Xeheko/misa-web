@@ -46,7 +46,6 @@ function BotaPage() {
                 <div className="hurJuniorE">
                     <BotaFoto />
                 </div>
-            </div>
 <div className="hurBottomBar">
                 <ul className="hurmenu">
                     <div className="hurBack">
@@ -65,6 +64,7 @@ function BotaPage() {
                 <div className="hurFooter">
                   <Footer />
                 </div>
+            </div>
                 </>
 
     )

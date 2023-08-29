@@ -10,7 +10,8 @@ function winSec() {
     <div className='juniorAll'>
         <div className="juniorHeader">
             <h3>Projekt</h3>
-            <h2>Nábor ženy –⁠ tackle, flag</h2>
+            <h2 id='pcText'>Nábor ženy –⁠ tackle, flag</h2>
+            <h2 id='mobileText'>Nábor ženy⁠ tackle, flag</h2>
         </div>
         <div className="juniorGallery">
             <div className="juniorGalleryL">
