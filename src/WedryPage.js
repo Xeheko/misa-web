@@ -20,8 +20,8 @@ function WedryPage() {
       };
     return(
         <>
-        <div className="HurPage">
             <ScrollToTop />
+        <div className="HurPage">
             <div className="Topbar">
                 <Navbar />
             </div>
