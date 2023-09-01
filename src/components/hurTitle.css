@@ -67,7 +67,7 @@
 .raketaciTitle{
     background-image: url(./images/raketaci_logo.svg);
     background-repeat: no-repeat;
-    background-position: center right;
+    background-position: 80% 50%;
     width: 90%;
     padding-bottom: 100px;
 }
