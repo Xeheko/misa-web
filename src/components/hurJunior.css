@@ -55,6 +55,15 @@
     width: 100%;
 }
 
+.juniorGalleryB{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 40px;
+    gap: 25px;
+}
+
 .juniorGalleryD{
     display: flex;
     flex-direction: column;

@@ -14,11 +14,11 @@ function winSec() {
             <h2 id='mobileText'>Nábor ženy⁠ tackle, flag</h2>
         </div>
         <div className="juniorGallery">
-            <div className="juniorGalleryL">
+            <div className="juniorGalleryB">
                 <img  src={uvodni} alt="" />
                 <img  src={kino} alt="" />
             </div>
-            <div className="juniorGalleryR">
+            <div className="juniorGalleryS">
               <img  src={stories} alt="" />
               <img  src={post} alt="" />
             </div>

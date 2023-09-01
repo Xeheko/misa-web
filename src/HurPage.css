@@ -28,7 +28,7 @@
 }
 
 .hurPageContent{
-    background-image: url(./components/images/Hurbg.png);
+    background: #130033;
     background-size: cover;
     position: relative;
     margin-top: -2%;

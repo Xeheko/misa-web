@@ -10,10 +10,10 @@ function Soc_hl() {
     return(
         <>
         <div className="SocImg">
-            <a href="https://www.behance.net/michaelamrzkov1" target="_blank" rel="noopener noreferrer"><img  src={IG} alt="IG"></img></a>
             <a href="https://www.behance.net/michaelamrzkov1" target="_blank" rel="noopener noreferrer"><img  src={BE} alt="BE"></img></a>
-            <a href="https://www.facebook.com/michaela.mrazkova.756" target="_blank" rel="noopener noreferrer"><img  src={FB} alt="FB"></img></a>
+            <a href="https://www.instagram.com/mrazkova_design/" target="_blank" rel="noopener noreferrer"><img  src={IG} alt="IG"></img></a>
             <a href="https://www.youtube.com/@michaelamrazkova1034" target="_blank" rel="noopener noreferrer"><img  src={YT} alt="YT"></img></a>
+            <a href="https://www.facebook.com/michaela.mrazkova.756" target="_blank" rel="noopener noreferrer"><img  src={FB} alt="FB"></img></a>
         </div>
         </>
 

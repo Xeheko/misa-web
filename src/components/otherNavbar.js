@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./otherNavbar.css";
 import arrowL from "./images/arrowL.svg";
+import { Link } from "react-router-dom";
 
 function OtherNavbar() {
   const [otherColor, setOtherColor] = useState(false);
@@ -32,12 +33,14 @@ function OtherNavbar() {
         <ul className="hurmenu">
             <div className="hurBack">
                 <img  src={arrowL} alt="" />
-            <li>
-            <a href="/" onClick={handleBackClick}>
-                    ZPĚT NA PORTFOLIO
-                </a>
-          </li>
-          </div>
+                <li>
+                  <p>
+                    <Link href="#" onClick={handleBackClick}>
+                      ZPĚT NA PORTFOLIO
+                    </Link>
+                  </p>
+                </li>
+            </div>
         </ul>
         </div>
   );

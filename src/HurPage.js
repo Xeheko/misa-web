@@ -35,9 +35,6 @@ function HurPage() {
             </div>
 
             <div className="hurPageContent">
-                <div className="hurJuniorE">
-                    <HurJunior />
-                </div>
                 <div className="hurZlin">
                   <HurZlin />
                 </div>
@@ -46,6 +43,9 @@ function HurPage() {
                 </div>
                 <div className="hurTrut">
                   <HurTrut />
+                </div>
+                <div className="hurJuniorE">
+                    <HurJunior />
                 </div>
                 {/* <div className="hurManE">
                   <HurMan />                
