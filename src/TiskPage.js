@@ -48,7 +48,7 @@ function ObleceniPage() {
 
                 <p className="container">
                     <Link to="/Menu">
-                        <img  className="image" loading="lazy" src={menu} alt="" />
+                        <img  className="image" src={menu} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Table tent</h1></div>
@@ -56,7 +56,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/Kalendar">
-                        <img  className="image" loading="lazy" src={kalendar} alt="" />
+                        <img  className="image" src={kalendar} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Kalendář</h1></div>
@@ -64,7 +64,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/BohemiaScrap">
-                        <img  className="image" loading="lazy" src={bohemiaLetak} alt="" />
+                        <img  className="image" src={bohemiaLetak} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Kalendář</h1></div>
@@ -72,7 +72,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/Ples">
-                        <img  className="image" loading="lazy" src={ples} alt="" />
+                        <img  className="image" src={ples} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1> Plakát událost</h1></div>
@@ -80,7 +80,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/IShowroom">
-                        <img  className="image" loading="lazy" src={ishowroom} alt="" />
+                        <img  className="image" src={ishowroom} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1> Plakát událost</h1></div>
@@ -88,7 +88,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/Cola">
-                        <img  className="image" loading="lazy" src={cola} alt="" />
+                        <img  className="image" src={cola} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Reklamní cedule</h1></div>
@@ -96,7 +96,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/Shoes">
-                        <img  className="image" loading="lazy" src={bota} alt="" />
+                        <img  className="image" src={bota} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>Brožura</h1></div>
@@ -104,7 +104,7 @@ function ObleceniPage() {
                 </p>
                 <p className="container">
                     <Link to="/PF">
-                        <img  className="image" loading="lazy" src={PF} alt="" />
+                        <img  className="image" src={PF} alt="" />
                     </Link>
                     <div className="overlay">
                         <div className="text"><h1>PF 2021</h1></div>

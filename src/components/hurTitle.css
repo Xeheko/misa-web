@@ -127,7 +127,7 @@
 .devetsilTitle{
     background-image: url(./images/devetsil_logo.svg);
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: 80% -50%;
     width: 90%;
 }
 

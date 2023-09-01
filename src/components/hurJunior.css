@@ -19,6 +19,12 @@
     width: 80%;
 }
 
+@media screen and (min-width: 1600px){
+    .tentHeader{
+        width: 92%;
+    }
+}
+
 .juniorHeader,
 .tentHeader{
     padding-top: 135px;

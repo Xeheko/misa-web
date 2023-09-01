@@ -8,6 +8,12 @@
     justify-content: center;
 }
 
+@media screen and (min-width: 1600px){
+    .onlinePage{
+        background-position: 50rem;
+    }
+}
+
 .onlinePageContent{
     display: flex;
     flex-direction: column;
