@@ -6,7 +6,7 @@ import event from "./images/hurPage/win_event3.svg";
 import stories from "./images/hurPage/win_stories3.svg";
 
 
-function hurZlin() {
+function winThird() {
   return (
     <div className='juniorAll'>
         <div className="juniorHeader">
@@ -29,4 +29,4 @@ function hurZlin() {
   )
 }
 
-export default hurZlin
+export default winThird

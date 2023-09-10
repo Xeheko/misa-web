@@ -47,7 +47,7 @@ function onlinePage() {
 
 
                     <p className="container">
-                        <Link to="/ObleceniPage/Hurricanes">
+                        <Link to="/Hurricanes">
                             <img  className="image" src={hurricanes} alt="hurricanes" />
                         </Link>
                         <div className="overlay">

@@ -4,10 +4,10 @@ import Navbar from "./components/otherNavbar";
 import { Link } from "react-router-dom";
 import arrowL from "./components/images/arrowL.svg";
 import CalmTitle from "./components/CalmTitle";
-import CalmWork from "./components/calmWork";
+
 import ScrollToTop from "./ScrollToTop";
 import CalmMotto from "./components/calmMotto";
-import CalmDeti from "./components/calmDeti";
+
 import Footer from "./components/Footer";
 
 
@@ -34,12 +34,6 @@ function CalmPage() {
             <div className="hurPageContent">
                 <div className="hurJunior">
                     <CalmMotto />
-                </div>
-                <div className="hurZlin">
-                    <CalmDeti />
-                </div>
-                <div className="hurZlin">
-                    <CalmWork />
                 </div>
             
 <div className="hurBottomBar">

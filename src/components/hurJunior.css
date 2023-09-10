@@ -16,17 +16,26 @@
 }
 
 .tentHeader{
-    width: 80%;
+    width: 67%;
+}
+
+.calmHeader{
+    width: 75%;
 }
 
 @media screen and (min-width: 1600px){
     .tentHeader{
-        width: 92%;
+        width: 76%;
     }
+    .calmHeader{
+        width: 85%;
+    }
+    
 }
 
 .juniorHeader,
-.tentHeader{
+.tentHeader,
+.calmHeader{
     padding-top: 135px;
     display: flex;
     flex-direction: column;
@@ -35,13 +44,15 @@
 }
 
 .juniorHeader h3,
-.tentHeader h3{
+.tentHeader h3,
+.calmHeader h3{
     font-weight: 300;
     font-size: 22px;
 }
 
 .juniorHeader h2,
-.tentHeader h2{ 
+.tentHeader h2,
+.calmHeader h2{ 
     font-weight: 500;
     font-size: 48px;
     padding-top: 5px;
@@ -217,7 +228,8 @@
 }
 
 .juniorHeader,
-.tentHeader{
+.tentHeader,
+.calmHeader{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -226,12 +238,14 @@
 }
 
 .juniorHeader h2,
-.tentHeader h2{
+.tentHeader h2,
+.calmHeader h2{
     font-size: 38px;
 }
 
 .juniorHeader h3,
-.tentHeader h3{
+.tentHeader h3,
+.calmHeader h3{
     font-size: 28px;
 }
 

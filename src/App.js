@@ -47,7 +47,7 @@ function App() {
             <Route path="/TiskPage" element={<TiskPage />} />
 
 
-            <Route path="/ObleceniPage/Hurricanes" element={<HurPage />} />
+            <Route path="/Hurricanes" element={<HurPage />} />
             <Route path="/Windstorms" element={<WinPage />} />
             <Route path="/MyAge" element={<Agepage />} />
             <Route path="/Sparta" element={<SpartaPage />} />

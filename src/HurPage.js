@@ -11,6 +11,8 @@ import HurSchedule from "./components/hurSchedule";
 import HurTrut from "./components/hurTrut";
 import HurScore from "./components/hurScore";
 import Footer from "./components/Footer";
+import HurFinale from "./components/hurFinale";
+import HurLast from "./components/hurLast";
 
 
 
@@ -35,6 +37,9 @@ function HurPage() {
             </div>
 
             <div className="hurPageContent">
+                <div className="hurJunior">
+                  <HurFinale />
+                </div>
                 <div className="hurZlin">
                   <HurZlin />
                 </div>
@@ -54,6 +59,9 @@ function HurPage() {
 
                 <div className="hurManE">
                   <HurScore />
+                </div>
+                <div className="hurJuniorE">
+                    <HurLast />
                 </div>
             <div className="hurBottomBar">
                 <ul className="hurmenu">
