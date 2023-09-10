@@ -73,13 +73,13 @@
     margin-right: 85px;
 }
 
-.footerSoc img{
+.footerSoc a{
     background: #3A1774;
     border-radius: 6px;
-    padding: 10px;
+    padding: 10px 10px 0 10px;
 }
 
-.footerSoc img:hover{
+.footerSoc a:hover{
     cursor: pointer;
     opacity: 70%;
 }
@@ -123,10 +123,8 @@
         flex-direction: column;
         margin-right: 60px;
     }
-    .footerSoc img{
+    .footerSoc a{
         background: #3A1774;
         border-radius: 6px;
-        padding: 10px;
-    
     }
 }

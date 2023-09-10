@@ -8,6 +8,7 @@ import WinFirst from "./components/winFirst";
 import ScrollToTop from "./ScrollToTop";
 import WinSec from "./components/winSec";
 import WinThird from "./components/winThird";
+import WinFourth from "./components/winFourth";
 import WinSchedule from "./components/winSchedule";
 import Footer from "./components/Footer";
 
@@ -43,6 +44,9 @@ function WinPage() {
                 </div>
                 <div className="hurSchedule">
                   <WinThird />
+                </div>
+                <div className="hurSchedule">
+                  <WinFourth />
                 </div>
                 <div className="hurSchedule">
                   <WinSchedule />
